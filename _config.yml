@@ -1,4 +1,4 @@
-baseurl: ''
+baseurl: /site
 permalink: pretty
 markdown: rdiscount
 port: 3200
