@@ -1,10 +1,13 @@
-baseurl: /starter
+baseurl: ''
 permalink: pretty
 markdown: rdiscount
+port: 3200
+host: 127.0.0.1
+about: "Suspendisse feugiat. Vivamus laoreet. Etiam sollicitudin, ipsum eu pulvinar rutrum, tellus ipsum laoreet sapien, quis venenatis ante odio sit amet eros. Proin viverra, ligula sit amet ultrices semper, ligula arcu tristique sapien, a accumsan nisi mauris ac eros. Aenean viverra rhoncus pede."
 prose:
   rooturl: '_posts'
-  siteurl: 'http://prose.github.io/starter/'
-  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  siteurl: 'http://guidetokulchur.github.io/press/'
+  relativeLinks: 'http://guidetokulchur.github.io/press/links.jsonp'
   media: 'media'
   metadata:
     _posts:
@@ -40,11 +43,11 @@ prose:
               value: "pears"
             - name: "Mangos"
               value: "mangos"
-    _posts/static:
+    _posts/title:
       - name: "layout"
         field:
           element: "hidden"
-          value: "page"
+          value: "title"
       - name: "title"
         field:
           element: "text"

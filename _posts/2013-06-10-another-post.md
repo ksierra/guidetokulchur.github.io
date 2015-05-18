@@ -1,7 +1,7 @@
 ---
 published: true
-category: blog
-layout: blog
+category: title
+layout: title
 splash: "http://placehold.it/1600x500"
 ---
 
