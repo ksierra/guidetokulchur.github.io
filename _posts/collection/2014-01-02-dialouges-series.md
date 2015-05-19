@@ -1,6 +1,6 @@
 ---
-title: "Dialouges Series"
-permalink: dialouges-series
+title: "Dialogues Series"
+permalink: dialogues-series
 collectiontype: series
 published: true
 layout: collection
