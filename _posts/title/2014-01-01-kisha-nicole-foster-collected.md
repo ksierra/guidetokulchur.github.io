@@ -7,6 +7,7 @@ published: true
 layout: title
 category: title
 cover: kisha-cover.jpg
+price: '17.00'
 description: |
    A rousing collection of poems evoking the formidable presence of a celebrated and fearless emerging poet hailing from Cleveland, Ohio
 ---
