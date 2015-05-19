@@ -26,9 +26,18 @@ section: blog
           </ul>
       </div>
       <div class="col-md-7">
-          <h2>New Releases</h2> {% for item in site.categories.blog limit:4 %} {% capture date %}{{ item.date | date: '%B %Y' }}{% endcapture %} {% capture ndate %}{{ item.next.date | date: '%B %Y' }}{% endcapture %} {% if date != ndate %}
-          <h4 class='month'>{{item.date | date: '%B %Y'}}</h4> {% endif %}
-          <a class='item' href='{{site.baseurl}}{{item.url}}'>{{item.title}} <span class='date'>&#126; {{item.date | date:"%b %d"}}</span></a> {% endfor %}
+          <h2>New Releases</h2>
+          <ul class="list-group">
+                {% for item in site.categories.title limit:400 %}
+                <a href="{{site.baseurl}}{{item.url}}" class="list-group-item row">
+                    <div class="col-md-4"><img style="width:100%" src="{{site.baseurl}}/{{site.prose.media}}/{{item.cover}}"></div>
+                    <div class="col-md-8">
+                        <h4> {{item.title}} by {{item.author}}</h4>
+                        <p class="list-group-item-text">{{item.description}}</p>
+                    </div>
+                </a>
+                {% endfor %}
+            </ul>
       </div>
 
   </div>
