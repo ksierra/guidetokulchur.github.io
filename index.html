@@ -3,35 +3,34 @@ layout: default
 section: blog
 ---
 <div class="row-fluid">
-<img class="banner-image" src="https://guidetokulchur.files.wordpress.com/2014/11/1231251_613270395237_1644316492_n.jpg" />
+<div class="banner-image"  style="background-image: url(https://guidetokulchur.files.wordpress.com/2014/11/1231251_613270395237_1644316492_n.jpg)">
+
+</div>
 </div>
 <div class="container-fluid">
   <div class="row">
+        <div class="col-md-5">
+          <h1>GTK Press</h1>
+          <p>{{site.about}}</p>
+          <button class="btn btn-default">Learn More >></button>
+          <h2>We Are Very Busy!</h2>
+
+          <ul class="list-group">
+          {% for item in site.categories.collection limit:400 %}
+            <a href="{{site.baseurl}}{{item.url}}" class="list-group-item">
+                  <h4 class="list-group-heading"> {{item.title}} <span class="fa fa-arrow-right pull-right"></span></h4>
+                  <p class="list-group-item-text">{{item.description}}</p>
+              </a>
+          {% endfor %}
+
+          </ul>
+      </div>
       <div class="col-md-7">
           <h2>New Releases</h2> {% for item in site.categories.blog limit:4 %} {% capture date %}{{ item.date | date: '%B %Y' }}{% endcapture %} {% capture ndate %}{{ item.next.date | date: '%B %Y' }}{% endcapture %} {% if date != ndate %}
           <h4 class='month'>{{item.date | date: '%B %Y'}}</h4> {% endif %}
           <a class='item' href='{{site.baseurl}}{{item.url}}'>{{item.title}} <span class='date'>&#126; {{item.date | date:"%b %d"}}</span></a> {% endfor %}
       </div>
-      <div class="col-md-5">
-          <h1>GTK Press</h1>
-          <p>{{site.about}}</p>
-          <button class="btn btn-default">Learn More >></button>
-          <h2>We Are Very Busy!</h2>
-          <ul class="list-group">
-              <a href="#" class="list-group-item">
-                  <h4 class="list-group-heading">Vanguard Series <span class="fa fa-arrow-right pull-right"></span></h4>
-                  <p class="list-group-item-text">...</p>
-              </a>
-              <a href="#" class="list-group-item">
-                  <h4 class="list-group-heading">Creative Journal <span class="fa fa-arrow-right pull-right"></span></h4>
-                  <p class="list-group-item-text">...</p>
-              </a>
-              <a href="#" class="list-group-item">
-                  <h4 class="list-group-heading">GTK Quarterly <span class="fa fa-arrow-right pull-right"></span></h4>
-                  <p class="list-group-item-text">...</p>
-              </a>
-          </ul>
-      </div>
+
   </div>
 </div>
 {% include rss-link.html %}

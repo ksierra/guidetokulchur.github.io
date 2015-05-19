@@ -32,6 +32,20 @@ h5,
 }
 
 .banner-image {
-    max-height:320px;
-    min-width:100%;
+  background-position: center center;
+  background-repeat: none;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.banner-image, body article.page .banner-image {
+  height: 300px;
+}
+
+@media only screen and (min-width: 500px) {
+  .banner-image, body article.page .banner-image {
+    height: 420px;
+  }
 }

@@ -44,6 +44,10 @@ prose:
             - name: "Mangos"
               value: "mangos"
     _posts/title:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "title"
       - name: "layout"
         field:
           element: "hidden"
@@ -58,3 +62,41 @@ prose:
           element: "text"
           label: "Permalink"
           value: ""
+      - name: "description"
+        field:
+          element: "textarea"
+          label: "Short Description"
+          value: ""
+    _posts/collection:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "collection"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "collection"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
+      - name: "description"
+        field:
+          element: "textarea"
+          label: "Short Description"
+          value: ""
+      - name: "collectiontype"
+        field:
+          label: "Collection Type"
+          element: 'select'
+          options:
+            - name: 'Journal'
+              value: 'journal'
+            - name: 'Series'
+              value: 'series'
