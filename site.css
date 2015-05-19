@@ -38,14 +38,43 @@ h5,
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+    text-align: center;
+    display: inline-table;
+    width:100%;
+}
+.banner-image-overlay {
+  opacity:.1;
+  background-color:black;
+  background-position: center center;
+  background-repeat: none;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  text-align: center;
 }
 
-.banner-image, body article.page .banner-image {
+.banner-image-overlay, .banner-image, body article.page .banner-image {
   height: 300px;
 }
 
 @media only screen and (min-width: 500px) {
-  .banner-image, body article.page .banner-image {
+  .banner-image-overlay, .banner-image, body article.page .banner-image {
     height: 420px;
   }
+}
+
+h2.banner-title {
+    display: table-cell;
+    vertical-align: middle;
+    height:420px;
+    font-size: 7em;
+    color:white;
+    margin: 0 auto;
+    text-shadow: 1px 1px 1px;
+}
+
+.list-group {
+  font-size: 15px;
+  font-weight: 300;
 }
