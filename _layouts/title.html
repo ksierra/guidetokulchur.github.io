@@ -21,7 +21,7 @@ section: titles
               <input type="hidden" name="business" value="{{site.paypal.email}}" />
               <input type="hidden" name="item_name" value="{{page.title}} by {{page.author}}" />
               <input type="hidden" name="quantity" value="1" />
-              <input type="hidden" name="amount" value="1.00" />
+              <input type="hidden" name="amount" value="{{page.price}}" />
               <input type="hidden" name="currency_code" value="USD" />
               <input type="hidden" name="shipping" value="1.00">
               <h3>Order this title</h3>
