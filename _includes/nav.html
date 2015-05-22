@@ -11,12 +11,29 @@
     </div>
 
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <form class="navbar-form navbar-right" action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="post">
+                <fieldset>
+                    <input type="hidden" name="business" value="example@minicartjs.com">
+                    <input type="hidden" name="cmd" value="_cart">
+                    <input type="hidden" name="display" value="1">
+                    <input type="submit" name="submit" value="View cart" class="btn btn-default btn-small">
+                </fieldset>
+            </form>
       <ul class="nav navbar-nav navbar-right">
-        <li class="active"><a href="#">All Titles <span class="sr-only">(current)</span></a></li>
+        {% if page.section == 'all' %}
+          <li class="active"><a href="{{site.baseurl}}/all-titles">All Titles <span class="sr-only">(current)</span></a></li>
+        {% else %}
+          <li><a href="{{site.baseurl}}/all-titles">All Titles</a></li>
+        {% endif %}
         {% for item in site.categories.collection limit:400 %}
-        <li><a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a></li>
+        {% if item.url == page.url %}
+          <li class="active"><a href="{{site.baseurl}}{{item.url}}">{{item.title}} <span class="sr-only">(current)</span></a></li>
+        {% else %}
+          <li><a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a></li>
+        {% endif %}
         {% endfor %}
       </ul>
+
     </div>
   </div>
 </nav>

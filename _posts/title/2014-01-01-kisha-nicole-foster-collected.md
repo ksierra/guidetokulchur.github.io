@@ -12,10 +12,16 @@ description: |
    A rousing collection of poems evoking the formidable presence of a celebrated and fearless emerging poet hailing from Cleveland, Ohio
 ---
 
->WE KNOW THERE’S NOT ONE WAY, ONE LIGHT, ONE STUPID TRUTH. - KATHLEEN HANNA, BIKINI KILL
+>WE KNOW THERE’S NOT ONE WAY, ONE LIGHT, ONE STUPID TRUTH. 
+> 
+<cite>KATHLEEN HANNA, BIKINI KILL </cite>
+
+---
+
 
 >IF YOU DON’T UNDERSTAND YOURSELF YOU DON’T UNDERSTAND ANYBODY ELSE.
->NIKKI GIOVANNI
+>
+<cite>NIKKI GIOVANNI</cite>
 
 
 In some circles, performance poetry is considered as the colloquial cousin to academic works that sit tidily on the page waiting to be discovered by the reader, who interprets poetry based on her own personal experiences and understanding of the written word and the literary canon.  This divide is echoed throughout the literary and visual arts—historically delineated as the “high” and the “low,” work for the “masses,” versus literature for educated “elites.” Scholars and readers have grappled with this rift for decades, particularly in the latter decades of the 20th century, when the African American and women’s rights movements and the postmodernist and post-structuralist theoretical revolutions in the academy challenged notions of what it meant to be a writer, reader, and about who gets to canonize literature.

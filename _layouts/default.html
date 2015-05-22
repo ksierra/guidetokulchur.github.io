@@ -10,7 +10,7 @@ title: 'Literature and Theory from the Margins'
   <link rel='alternate' type='application/rss+xml' title='RSS' href='SITEURLGOESHERE/blog.rss' />
   <link rel='shortcut icon' href='{{site.baseurl}}/img/favicon.ico' type='image/x-icon' />
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
-  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/yeti/bootstrap.min.css">
+  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.3.4/yeti/bootstrap.min.css">
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
   <link rel="stylesheet" id="font-oswald-css" href="https://fonts.googleapis.com/css?family=Oswald" type="text/css" media="all">
   <link href='{{site.baseurl}}/site.css' rel='stylesheet' />
@@ -24,5 +24,11 @@ title: 'Literature and Theory from the Margins'
   <script src='{{site.baseurl}}/site.js'></script>
   <script>
     paypal.minicart.render();
+    var cartItems = paypal.minicart.cart.items();
+    cartItemsQuantity = 0
+    for (var i = cartItems.length - 1; i >= 0; i--) {
+      cartItemsQuantity += cartItems[i]._data.quantity;
+    };
+    console.log(cartItemsQuantity);
   </script>
 </body>
