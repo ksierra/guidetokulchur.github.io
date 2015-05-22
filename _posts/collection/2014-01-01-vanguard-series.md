@@ -5,7 +5,7 @@ collectiontype: series
 published: true
 layout: collection
 category: collection
-banner: vanguard-series.jpg
+cover: vanguard-series.jpg
 description: |
     Giving voice to emerging writers
 ---

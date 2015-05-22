@@ -5,7 +5,7 @@ collectiontype: series
 published: true
 layout: collection
 category: collection
-media: media/vanguard.jpg
+cover: vanguard.jpg
 ---
 
 Vanguard series is AWESOME

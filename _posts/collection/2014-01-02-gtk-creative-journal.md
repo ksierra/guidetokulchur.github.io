@@ -5,7 +5,7 @@ collectiontype: journal
 published: true
 layout: collection
 category: collection
-media: media/gtk-creative-journal.jpg
+cover: gtk-creative-journal.jpg
 ---
 
 GTK Creative Journal is AWESOME

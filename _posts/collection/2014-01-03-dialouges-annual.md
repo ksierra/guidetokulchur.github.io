@@ -5,7 +5,7 @@ collectiontype: journal
 published: true
 layout: collection
 category: collection
-media: media/dialouges-annual.jpg
+cover: dialouges-annual.jpg
 ---
 
 Dialouges Annual is AWESOME
