@@ -129,3 +129,11 @@ footer {
 footer div {
     padding: 40px;
 }
+
+.navbar {
+    z-index:500;
+}
+
+#PPMiniCart {
+    z-index:600;
+    }
