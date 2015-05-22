@@ -103,10 +103,20 @@ h5,
 }
 
 .banner-title div p {
-    font-size: 18px;
+    font-size: 24px;
 }
 
 .list-group {
   font-size: 15px;
   font-weight: 300;
+}
+
+footer {
+    height: 120px;
+    color: white;
+    background-color:#333333;
+}
+
+footer div {
+    padding: 40px;
 }
