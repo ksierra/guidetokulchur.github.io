@@ -74,7 +74,7 @@ h5,
     position: absolute;
   text-align: center;
   width: 100%;
-  top: 47px;
+  top: 45px;
   height: 420px;
   display: table;
     z-index:200;
@@ -111,11 +111,20 @@ h5,
   font-weight: 300;
 }
 
+body > .container {
+    margin-bottom:120px;
+}
+
 footer {
+
     height: 120px;
     color: white;
     background-color:#333333;
+      bottom: 0;
+    position: relative;
+    width: 100%;
 }
+
 
 footer div {
     padding: 40px;
