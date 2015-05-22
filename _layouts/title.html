@@ -3,14 +3,6 @@ layout: default
 section: titles
 ---
 
-{% if page.cover %}
-  {% if page.splash contains 'http' %}
-    {% capture url %}{{page.splash}}{% endcapture %}
-  {% else %}
-    {% capture url %}{{site.baseurl}}{{page.splash}}/{% endcapture %}
-  {% endif %}
-{% endif %}
-
 <div class='container'>
     <div class="row">
         <div class="col-md-5">
