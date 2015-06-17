@@ -8,8 +8,8 @@ paypal:
   email: clevelandtapes@yahoo.com
 prose:
   rooturl: ''
-  siteurl: 'http://guidetokulchur.github.io/press/'
-  relativeLinks: 'http://guidetokulchur.github.io/press/links.jsonp'
+  siteurl: 'https://guidetokulchur.github.io/'
+  relativeLinks: 'https://guidetokulchur.github.io/links.jsonp'
   media: 'media'
   metadata:
     _posts:
