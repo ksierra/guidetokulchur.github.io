@@ -61,12 +61,25 @@ prose:
           element: "text"
           label: "Author Name"
           placeholder: "James Baldwin"
+      - name: "authorbio"
+        field:
+          element: "textarea"
+          label: "Author Bio"
+          placeholder: "Stuff"
       - name: "price"
         field:
           element: "text"
           label: "Price"
           placeholder: "30.00"
           help: "Be sure to leave out the $ sign!"
+      - name: "releasedate"
+        field:
+          element: "datefield"
+          label: "Release Date"
+      - name: "instock"
+        field:
+          element: boolean
+          label: "In Stock?"
       - name: "collection"
         field:
           element: "select"

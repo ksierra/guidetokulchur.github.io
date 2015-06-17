@@ -1,3 +1,6 @@
+---
+---
+
 h1,
 h2,
 h3,
@@ -8,7 +11,7 @@ h5,
 }
 
 .navbar-default {
-    margin-bottom:0;
+    margin-bottom: 0;
 }
 
 .panel-title {
@@ -32,68 +35,72 @@ h5,
 }
 
 .banner-image {
-  background-position: center center;
-  background-repeat: none;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     text-align: center;
     display: inline-table;
-    width:100%;
+    width: 100%;
     margin-bottom: 2em;
-    z-index:100;
-    position:relative;
-}
-.banner-image-overlay {
-    opacity: .4;
-  background-color: black;
-  background-position: center center;
-  background-repeat: none;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  text-align: center;
-  position: absolute;
-  z-index: 200;
-  width: 100%;
+    z-index: 100;
+    position: relative;
 }
 
-.banner-image-overlay, .banner-image, body article.page .banner-image {
-  height: 300px;
+.banner-image-overlay {
+    opacity: .4;
+    background-color: black;
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+    position: absolute;
+    z-index: 200;
+    width: 100%;
+}
+
+.banner-image-overlay,
+.banner-image,
+body article.page .banner-image {
+    height: 300px;
 }
 
 @media only screen and (min-width: 500px) {
-  .banner-image-overlay, .banner-image, body article.page .banner-image {
-    height: 420px;
-  }
+    .banner-image-overlay,
+    .banner-image,
+    body article.page .banner-image {
+        height: 420px;
+    }
 }
 
 .banner-overlay-wrapper {
     position: absolute;
-  text-align: center;
-  width: 100%;
-  top: 45px;
-  height: 420px;
-  display: table;
-    z-index:200;
+    text-align: center;
+    width: 100%;
+    top: 45px;
+    height: 420px;
+    display: table;
+    z-index: 200;
 }
 
 .banner-title {
-  display: table-cell;
-  vertical-align: middle;
-  color: white;
-  width: 100%;
-  margin: 0 auto;
-  position: relative;
-  z-index: 300;
+    display: table-cell;
+    vertical-align: middle;
+    color: white;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    z-index: 300;
 }
 
 .banner-title h2 {
     font-size: 7em;
-    color:white;
-
+    color: white;
     text-shadow: 1px 1px 1px;
 }
 
@@ -107,33 +114,31 @@ h5,
 }
 
 .list-group {
-  font-size: 15px;
-  font-weight: 300;
+    font-size: 15px;
+    font-weight: 300;
 }
 
 body > .container {
-    margin-bottom:120px;
+    margin-bottom: 120px;
 }
 
 footer {
-
     height: 120px;
     color: white;
-    background-color:#333333;
-      bottom: 0;
+    background-color: #333333;
+    bottom: 0;
     position: relative;
     width: 100%;
 }
-
 
 footer div {
     padding: 40px;
 }
 
 .navbar {
-    z-index:500;
+    z-index: 500;
 }
 
 #PPMiniCart {
-    z-index:600;
-    }
+    z-index: 600;
+}
