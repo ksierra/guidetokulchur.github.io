@@ -1,4 +1,4 @@
-baseurl: /press
+baseurl: ''
 permalink: pretty
 markdown: rdiscount
 port: 3200
