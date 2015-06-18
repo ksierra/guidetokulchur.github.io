@@ -9,5 +9,4 @@ cover: glenville.jpg
 description: null
 ---
 
-
-GTK Creative Journal is AWESOME
+The GTK creative journal is a gateway for emerging literary voices. We publish kldjfklsdfklsdfkjsfksdfjsfkj 
