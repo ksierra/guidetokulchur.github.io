@@ -7,7 +7,7 @@ about: "Suspendisse feugiat. Vivamus laoreet. Etiam sollicitudin, ipsum eu pulvi
 paypal:
   email: clevelandtapes@yahoo.com
 prose:
-  rooturl: ''
+  rooturl: '_posts'
   siteurl: 'https://guidetokulchur.github.io/'
   relativeLinks: 'https://guidetokulchur.github.io/links.jsonp'
   media: 'media'
