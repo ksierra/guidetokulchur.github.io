@@ -1,11 +1,13 @@
 ---
-title: "GTK Creative Journal"
-permalink: gtk-creative-journal
-collectiontype: journal
-published: true
 layout: collection
 category: collection
-cover: gtk-creative-journal.jpg
+title: GTK Creative Journal
+permalink: "gtk-creative-journal"
+collectiontype: journal
+published: true
+cover: glenville.jpg
+description: null
 ---
+
 
 GTK Creative Journal is AWESOME
