@@ -132,3 +132,22 @@ prose:
               value: 'journal'
             - name: 'Series'
               value: 'series'
+    _posts/static:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "static"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "static"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
