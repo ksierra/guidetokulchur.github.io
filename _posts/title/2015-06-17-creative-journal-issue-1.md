@@ -10,6 +10,7 @@ price: "16.00"
 permalink: "creative-journal-1"
 ---
 
+
 ## Table of Contents
 
 1. Thing by person 
@@ -21,4 +22,3 @@ permalink: "creative-journal-1"
 sdfsdf
 
 sdfsdfdsf
-
