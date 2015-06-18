@@ -3,9 +3,11 @@ layout: title
 category: title
 published: false
 title: "Creative Journal Issue #1"
-collection: "dialogues-series"
+collection: "gtk-creative-journal"
 description: null
 authorbio: null
+price: "16.00"
+permalink: "creative-journal-1"
 ---
 
 ## Table of Contents
