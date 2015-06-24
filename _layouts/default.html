@@ -4,6 +4,26 @@
   <title>GTK Press {% if page.url != '/index.html' %} | {{page.title}}{% endif %}</title>
   <meta charset='UTF-8'/>
   <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+  <meta property="og:url" content="{{site.url}}{{base.url}}{{page.url}}" />
+  {% if page.url != '/index.html' %}
+  <!-- Regardless of what category it is -->
+    <meta property='og:title' content='{{page.title}}'/>
+    <meta property="og:description" content="{{page.description}}"/>
+    <meta property="og:image" content="{{site.baseurl}}{{prose.media}}{{page.cover}}"/>
+
+    {% if page.category == 'title' %}
+    <meta property="og:type" content="book"/>
+    <meta property="og:type" content="books.book"/>
+    <meta property="og:type" content="books.book"/>
+    {% else %}
+    <meta property="og:description" content="{{page.description}}"/>
+    {% endif %}
+
+  {% else %}
+    <meta property='og:image' content='{{site.baseurl}}{{prose.media}}{{site.defaultcover}}'/>
+
+  {% endif %}
+
   <link rel='alternate' type='application/rss+xml' title='RSS' href='SITEURLGOESHERE/blog.rss' />
   <link rel='shortcut icon' href='{{site.baseurl}}/img/favicon.ico' type='image/x-icon' />
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">

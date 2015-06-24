@@ -7,10 +7,11 @@ about: "Suspendisse feugiat. Vivamus laoreet. Etiam sollicitudin, ipsum eu pulvi
 paypal:
   email: clevelandtapes@yahoo.com
 defaultphoto: "https://placeholdit.imgix.net/~text?txtsize=42&txt=Image+Coming+Soon&w=600&h=400"
+defaultcover: "main-cover.jpg"
 prose:
   rooturl: '_posts'
-  siteurl: 'https://guidetokulchur.github.io/'
-  relativeLinks: 'https://guidetokulchur.github.io/links.jsonp'
+  siteurl: 'https://guidetokulchur.com/'
+  relativeLinks: 'https://guidetochulchur.com/links.jsonp'
   media: 'media'
   metadata:
     _posts:

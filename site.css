@@ -173,3 +173,8 @@ footer div {
     /** Unhide lightbox **/
     display: block;
 }
+
+.fa-input {
+  font-family: FontAwesome, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size:100%;
+}
