@@ -12,17 +12,12 @@ description: null
 instock: true
 authorbio: null
 isbn: "1243464564344"
-numpages: 
-  - "32"
-  - 32
-  - .nan
+numpages: "320"
 dimensions: "21\" x 12\" x .5\""
-numinstock: 
-  - "32"
-  - 32
-  - .nan
+numinstock: "40"
 releasedate: "2015-06-24 15:57 -0400"
 ---
+
 
 
 
