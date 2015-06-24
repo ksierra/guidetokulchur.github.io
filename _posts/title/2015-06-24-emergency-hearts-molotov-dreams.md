@@ -16,6 +16,7 @@ author: Scott Crow
 
 
 
+
 ## Scott Crow
 is an international speaker and author . He has engaged his varied life as a coop business co-owner, political organizer, educator and strategist, activist, filmmaker, dad and underground musician in a lifelong quixotic quest of enacting the ideas of collective liberation rooted in the philosophies of anarchy.
 
