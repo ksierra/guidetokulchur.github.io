@@ -74,7 +74,7 @@ prose:
           label: "Release Date"
       - name: "instock"
         field:
-          element: boolean
+          element: checkbox
           label: "In Stock?"
           help: "Regardless of the stock level, whether or not these titles can be sold"
           value: true
