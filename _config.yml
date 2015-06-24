@@ -6,6 +6,7 @@ host: 127.0.0.1
 about: "Suspendisse feugiat. Vivamus laoreet. Etiam sollicitudin, ipsum eu pulvinar rutrum, tellus ipsum laoreet sapien, quis venenatis ante odio sit amet eros. Proin viverra, ligula sit amet ultrices semper, ligula arcu tristique sapien, a accumsan nisi mauris ac eros. Aenean viverra rhoncus pede."
 paypal:
   email: clevelandtapes@yahoo.com
+defautphoto: "https://placeholdit.imgix.net/~text?txtsize=42&txt=Image+Coming+Soon&w=600&h=400"
 prose:
   rooturl: '_posts'
   siteurl: 'https://guidetokulchur.github.io/'
