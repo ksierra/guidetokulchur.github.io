@@ -52,7 +52,13 @@ layout: default
                 {% for item in site.categories.title limit:400 %}
                   {% if item.collection == page.permalink %}
                   <a href="{{site.baseurl}}{{item.url}}" class="list-group-item row">
-                      <div class="col-md-4"><img style="width:100%" src="{{site.baseurl}}/{{site.prose.media}}/{{item.cover}}"></div>
+                      <div class="col-md-4">
+                      {% if item.cover%}
+                      <img style="width:100%" src="{{site.baseurl}}/{{site.prose.media}}/{{item.cover}}">
+                      {% else %}
+                      <img src="https://placeholdit.imgix.net/~text?txtsize=14&txt=Image+Coming+Soon&w=600&h=400" class="thumbnail" style="width:100%; margin-top:3em" />
+                      {% endif %}
+                      </div>
                       <div class="col-md-8">
                           <h4> {{item.title}} {% if item.author %}by {{item.author}}{% endif %}</h4>
                           <p class="list-group-item-text">{{item.description}}</p>
