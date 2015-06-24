@@ -36,7 +36,7 @@ section: titles
                 <h1>{{page.title}}</h1>
                 {% for collection in site.categories.collection %}
                   {% if collection.permalink == page.collection %}
-                   {% if collection.type == 'series' %}
+                   {% if collection.collectiontype == 'series' %}
                     <p class="lead"> By {{page.author}} </p>
                    {% endif %}
                   {% endif %}
