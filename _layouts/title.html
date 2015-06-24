@@ -6,7 +6,16 @@ section: titles
 <div class='container'>
     <div class="row">
         <div class="col-md-5">
-            <img class="thumbnail" src='{{site.baseurl}}/{{site.prose.media}}/{{page.cover}}' style="width:100%; margin-top:3em" />
+            {% if page.cover %}
+            <a href="#{{page.cover}}">
+              <img class="thumbnail" src='{{site.baseurl}}/{{site.prose.media}}/{{page.cover}}' style="width:100%; margin-top:3em" />
+            </a>
+            <a href="#_" class="lightbox" id="{{page.cover}}">
+              <img src="{{site.baseurl}}/{{site.prose.media}}/{{page.cover}}">
+            </a>
+            {% else %}
+            <img src="https://placeholdit.imgix.net/~text?txtsize=42&txt=Image+Coming+Soon&w=600&h=400" class="thumbnail" style="width:100%; margin-top:3em" />
+            {% endif %}
             {% if page.instock %}
             <div class="well well-sm">
             <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
