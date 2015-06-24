@@ -71,7 +71,7 @@ prose:
           help: "Be sure to leave out the $ sign!"
       - name: "releasedate"
         field:
-          element: "datefield"
+          element: "text"
           label: "Release Date"
           value: "CURRENT_DATETIME"
       - name: "instock"
