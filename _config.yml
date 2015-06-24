@@ -57,6 +57,7 @@ prose:
           element: "text"
           label: "Author Name"
           placeholder: "James Baldwin"
+          help: "If there is no author, leave blank and the 'by' text won't appear anywhere"
       - name: "authorbio"
         field:
           element: "textarea"

@@ -32,7 +32,7 @@ section: index
                 <a href="{{site.baseurl}}{{item.url}}" class="list-group-item row">
                     <div class="col-md-4"><img style="width:100%" src="{{site.baseurl}}/{{site.prose.media}}/{{item.cover}}"></div>
                     <div class="col-md-8">
-                        <h4> {{item.title}} by {{item.author}}</h4>
+                        <h4> {{item.title}} {% if item.author %} by {{item.author}} {% endif %}</h4>
                         <p class="list-group-item-text">{{item.description}}</p>
                     </div>
                 </a>
