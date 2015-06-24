@@ -34,7 +34,13 @@ section: titles
         <div class="col-md-7">
             <div class='page-header'>
                 <h1>{{page.title}}</h1>
-                <p class="lead"> By {{page.author}} </p>
+                {% for collection in site.categories.collection %}
+                  {% if collection.permalink == page.collection %}
+                   {% if collection.type == 'series' %}
+                    <p class="lead"> By {{page.author}} </p>
+                   {% endif %}
+                  {% endif %}
+                {% endfor %}
                 {% for collection in site.categories.collection %}
                   {% if collection.permalink == page.collection %}
                   <p class="lead"><a href="{{site.baseurl}}/{{collection.url}}"><em>{{collection.title}}</em></a></p>
