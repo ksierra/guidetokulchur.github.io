@@ -44,9 +44,9 @@ layout: default
           <div class="panel-heading">
             {% if page.collectiontype == "journal" %}
             <h4>Issues</h4>
-            {% else %}
+            {% else if page.collectiontype == "series" %}
             <h4>Available Titles</h4>
-            {% end if %}
+            {% endif %}
             </div>
             <ul class="list-group">
                 {% for item in site.categories.title limit:400 %}
