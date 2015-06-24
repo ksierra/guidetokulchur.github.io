@@ -10,7 +10,15 @@ cover: "kisha-cover.jpg"
 price: "17.00"
 description: null
 instock: true
-authorbio: null
+authorbio: Baby poet
+isbn: "1243464564344"
+numpages: 
+  - "32"
+  - 32
+dimensions: "21\" x 12\" x .5\""
+numinstock: 
+  - "32"
+  - 32
 ---
 
 
