@@ -76,6 +76,12 @@ prose:
         field:
           element: boolean
           label: "In Stock?"
+          help: "Regardless of the stock level, whether or not these titles can be sold"
+      - name: "numinstock"
+        field:
+          element: number
+          label: "Number In Stock"
+          help: "Number of these titles printed in stock"
       - name: "collection"
         field:
           element: "select"
@@ -89,6 +95,19 @@ prose:
               value: "gtk-creative-journal"
             - name: "Vanguard Series"
               value: "vanguard-series"
+      - name: "isbn"
+        field:
+          element: "text"
+          label: "ISBN Number"
+          help: "Library of congress ISBN number"
+      - name: "numpages"
+        field:
+          element: "number"
+          label: "# of pages"
+      - name: "dimensions"
+        field:
+          element: "text"
+          label: "Book dimensions"
     _posts/collection:
       - name: "category"
         field:
