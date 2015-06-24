@@ -82,7 +82,7 @@ prose:
           value: true
       - name: "numinstock"
         field:
-          element: number
+          element: "text"
           label: "Number In Stock"
           help: "Number of these titles printed in stock"
       - name: "collection"
@@ -105,7 +105,7 @@ prose:
           help: "Library of congress ISBN number"
       - name: "numpages"
         field:
-          element: "number"
+          element: "text"
           label: "# of pages"
       - name: "dimensions"
         field:
