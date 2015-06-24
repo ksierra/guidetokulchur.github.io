@@ -1,14 +1,17 @@
 ---
 layout: title
 category: title
-published: false
+published: true
 title: "Creative Journal Issue #1"
 collection: "gtk-creative-journal"
 description: null
 authorbio: null
 price: "16.00"
 permalink: "creative-journal-1"
+instock: true
 ---
+
+
 
 
 ## Table of Contents
