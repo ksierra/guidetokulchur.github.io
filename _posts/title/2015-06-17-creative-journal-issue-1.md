@@ -1,7 +1,7 @@
 ---
 layout: title
 category: title
-published: false
+published: true
 title: "Creative Journal Issue #1"
 collection: "gtk-creative-journal"
 description: null
