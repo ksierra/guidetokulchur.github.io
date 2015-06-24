@@ -47,7 +47,7 @@ prose:
           element: "text"
           label: "Cover Image path"
           placeholder: "blah.jpg"
-          help: "Upload an image using the WYSIWYG, or refer to an image in media/ folder. media/ prefix is assumed. Make sure it is optimized fo a full bleed, similar to a facebook cover photo (the crop will always be centered though)"
+          help: "Upload an image using the WYSIWYG, and use the provided filename similar to the placeholder"
       - name: "description"
         field:
           element: "textarea"
@@ -58,12 +58,12 @@ prose:
           element: "text"
           label: "Author Name"
           placeholder: "James Baldwin"
-          help: "If there is no author, leave blank and the 'by' text won't appear anywhere"
-      - name: "authorbio"
-        field:
-          element: "textarea"
-          label: "Author Bio"
-          placeholder: "Stuff"
+          help: "If there is no author, leave blank and the 'by' text won't appear anywhere. Set the author bio in the body text"
+      # - name: "authorbio"
+      #   field:
+      #     element: "textarea"
+      #     label: "Author Bio"
+      #     placeholder: "Stuff"
       - name: "price"
         field:
           element: "text"
