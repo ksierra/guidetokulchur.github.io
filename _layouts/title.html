@@ -7,6 +7,7 @@ section: titles
     <div class="row">
         <div class="col-md-5">
             <img class="thumbnail" src='{{site.baseurl}}/{{site.prose.media}}/{{page.cover}}' style="width:100%; margin-top:3em" />
+            {% if page.instock %}
             <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
               <input type="hidden" name="cmd" value="_cart" />
               <input type="hidden" name="add" value="1" />
@@ -19,7 +20,10 @@ section: titles
               <h3>Order this title</h3>
               <div>${{page.price}} plus shipping</div>
               <input class="btn btn-primary" type="submit" name="submit" value="Add to cart" />
-          </form>
+            </form>
+            {% else %}
+            <p><strong>Currently out of stock</strong></p>
+            {% endif %}
             {% if page.numinstock %}<p><strong># in stock:</strong> {{page.isbn}}</p>{% endif %}
             {% if page.isbn %}<p><strong>ISBN:</strong> {{page.isbn}}</p>{% endif %}
             {% if page.numpages %}<p><strong># pages:</strong>{{page.numpages}}</p>{% endif %}
