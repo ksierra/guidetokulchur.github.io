@@ -73,6 +73,7 @@ prose:
         field:
           element: "datefield"
           label: "Release Date"
+          value: "CURRENT_DATETIME"
       - name: "instock"
         field:
           element: checkbox
