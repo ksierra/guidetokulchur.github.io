@@ -7,7 +7,7 @@ releasedate: "2015-08-01 22:07 -0400"
 instock: true
 collection: "vanguard-series"
 description: null
-cover: Book Cover (1).PNG
+cover: callingversion1.jpg
 author: M. Carmen Lane
 price: "10.00"
 numpages: "80"
@@ -16,6 +16,7 @@ isbn: "978-0-9965460-2-7"
 permalink: "calling-out-after-slaughter"
 ---
 
+![callingversion1.jpg]({{site.baseurl}}/media/callingversion1.jpg)
 
 
 
