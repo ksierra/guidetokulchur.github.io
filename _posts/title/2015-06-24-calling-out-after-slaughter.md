@@ -1,7 +1,7 @@
 ---
 layout: title
 category: title
-published: false
+published: true
 title: Calling Out After Slaughter
 releasedate: "2015-06-24 22:07 -0400"
 instock: true
@@ -17,6 +17,6 @@ price: "10.00"
 
 ### About M. Carmen Lane
 
-
+M. Carmen Lane (African-American/Mohawk/Tuscarora) is a poet and cultural worker. Carmen's work has been published in Red Ink Magazine, The Yellow Medicine Review and is a contributor to the Lambda Literary Award nominated anthology Sovereign Erotics: A Collection of Two-Spirit Literature.
 
 
