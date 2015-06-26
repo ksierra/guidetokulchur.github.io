@@ -3,10 +3,10 @@ layout: title
 category: title
 published: true
 title: "Emergency Hearts, Molotov Dreams"
-releasedate: "2015-06-24 17:29 -0400"
+releasedate: "2015-08-01 17:29 -0400"
 instock: true
 collection: "dialogues-series"
-description: null
+description: "\"A must-read for anyone who is ready to face the reality that to create social change we need to step away from our computers and into the streets.\"\n— lauren Ornelas, Founder and Director Food Empowerment Project, contributor to the anthology Sister Species: Women, Animals, and Social Justice "
 authorbio: null
 permalink: "emergency-Hearts-Molotov-Dreams"
 cover: "scott_crow-9_star.jpg"
