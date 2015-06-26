@@ -6,15 +6,16 @@ title: Calling Out After Slaughter
 releasedate: "2015-08-01 22:07 -0400"
 instock: true
 collection: "vanguard-series"
-description: null
+description: "A long awaited collection queering the legacy of genocide and slavery in the Americas as an intimate intersection--here and now."
 cover: callingversion1.jpg
 author: M. Carmen Lane
 price: "10.00"
 numpages: "80"
-dimensions: 5by8
+dimensions: 5 by 8
 isbn: "978-0-9965460-2-7"
 permalink: "calling-out-after-slaughter"
 ---
+
 
 
 ## A long awaited collection queering the legacy of genocide and slavery in the Americas as an intimate intersection--here and now. 
@@ -26,4 +27,3 @@ M. Carmen Lane (African-American/Mohawk/Tuscarora) is a poet and cultural worker
 ### Cover Art by 
 
 Fox A.C. Spears
-
