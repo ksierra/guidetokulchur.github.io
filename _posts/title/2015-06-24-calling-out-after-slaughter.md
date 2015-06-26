@@ -7,7 +7,7 @@ releasedate: "2015-08-01 22:07 -0400"
 instock: true
 collection: "vanguard-series"
 description: "A long awaited collection queering the legacy of genocide and slavery in the Americas as an intimate intersection--here and now."
-cover: callingversion1.jpg
+cover: callingout.jpg
 author: M. Carmen Lane
 price: "10.00"
 numpages: "80"
@@ -15,6 +15,8 @@ dimensions: 5 by 8
 isbn: "978-0-9965460-2-7"
 permalink: "calling-out-after-slaughter"
 ---
+
+
 
 
 
