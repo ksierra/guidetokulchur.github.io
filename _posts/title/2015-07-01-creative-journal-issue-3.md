@@ -3,14 +3,15 @@ layout: title
 category: title
 published: true
 title: "Creative Journal Issue #3"
-releasedate: "2015-07-01 21:46 -0400"
+releasedate: "2015-04-01 21:46 -0400"
 instock: true
 collection: "gtk-creative-journal"
-description: null
+description: Spring 2015
 permalink: "creative-journal-3"
 cover: CreativeJournal3.jpg
 price: "10.00"
 ---
+
 
 ##Table of Contents
 1. Zane Brain
