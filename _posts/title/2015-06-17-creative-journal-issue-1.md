@@ -1,7 +1,7 @@
 ---
 layout: title
 category: title
-published: true
+published: false
 title: "Creative Journal Issue #1"
 collection: "gtk-creative-journal"
 description: null
@@ -10,8 +10,12 @@ price: "10.00"
 permalink: "creative-journal-1"
 instock: false
 releasedate: "2014-02-01 21:34 -0400"
-cover: CreativeJournalnew1.JPG
+cover: CrativeJournalnew1.jpg
 ---
+
+![CrativeJournalnew1.jpg]({{site.baseurl}}/media/CrativeJournalnew1.jpg)
+
+
 
 ## Table of Contents
 
