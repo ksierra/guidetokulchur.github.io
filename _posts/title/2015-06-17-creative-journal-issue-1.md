@@ -10,10 +10,8 @@ price: "10.00"
 permalink: "creative-journal-1"
 instock: false
 releasedate: "2014-02-01 21:34 -0400"
-cover: CreativeJournal1.JPG
+cover: CreativeJournalnew1.JPG
 ---
-
-![CreativeJournal1.JPG]({{site.baseurl}}/media/CreativeJournal1.JPG)
 
 ## Table of Contents
 
