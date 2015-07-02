@@ -3,13 +3,14 @@ layout: title
 category: title
 published: true
 title: "Creative Journal Issue #2"
-releasedate: "2015-07-01 21:35 -0400"
+releasedate: "2014-012-01 21:35 -0400"
 instock: false
 collection: "gtk-creative-journal"
-description: null
+description: Winter 2014
 permalink: "creative-journal-2"
 price: "10.00"
 ---
+
 
 ##Table of Contents
 1. Bree
@@ -45,4 +46,3 @@ price: "10.00"
 31. Patricia Harusame Leebove
 32. Marlee Pickles (cover)
 33. Francios Fissi Bissi OkraKongo (photography)
-
