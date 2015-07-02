@@ -1,10 +1,11 @@
 ---
 layout: static
 category: static
-published: false
+published: true
 title: "submission-guidelines"
 permalink: "submission-guidelines"
 ---
+
 
 
 ## SUBMISSIONS ARE CURRENTLY CLOSED
