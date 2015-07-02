@@ -6,22 +6,52 @@ title: "Creative Journal Issue #1"
 collection: "gtk-creative-journal"
 description: null
 authorbio: null
-price: "16.00"
+price: "10.00"
 permalink: "creative-journal-1"
-instock: true
+instock: false
+releasedate: "2014-02-01 21:34 -0400"
+cover: CrativeJournalnew1.jpg
 ---
 
+![CrativeJournalnew1.jpg]({{site.baseurl}}/media/CrativeJournalnew1.jpg)
 
 
 
 ## Table of Contents
 
-1. Thing by person 
-2. **Blah de blah** page 32
-3. item
-4. kljljklj
-
-## Description
-sdfsdf
-
-sdfsdfdsf
+1. Amanda Aki
+2. BREE
+3. Steve Brightman
+4. Vita Brown
+5. Miles Budimir
+6. Lauren Cannavino
+7. Mark Cronin
+8. Robert Darkmatter
+9. Charles Evans
+10. Zach Fishel
+11. GORK
+12. Maggie Halm
+13. Holly Jensen
+14. Elizabeth Kenney
+15. jt ketterer
+16. Ashley Kollar
+17. Erin Kray
+18. Brandon Lichtinger
+19. Karen Lillis
+20. Jim Mason
+21. Joshua McDermott
+22. Shawn Mishak
+23. Tom Nomad
+24. Ryan Pearl
+25. Marlee Pickles (cover)
+26. James Evans Remick II
+27. Isabel Rodriguez
+28. Rob Rosin
+29. Krystal Sierra
+30. Steven B. Smith
+31. Vera Smith
+32. Barton Smock
+33. Kate Sopko
+34. Darius Stubbs
+35. Mandy Szostek
+36. Shepard Weita
