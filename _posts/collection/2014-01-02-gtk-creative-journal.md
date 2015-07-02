@@ -6,8 +6,9 @@ permalink: "gtk-creative-journal"
 collectiontype: journal
 published: true
 cover: "glenville-normalsize.jpg"
-description: null
+description: Home to emerging and marginalized voices.
 ---
+
 
 
 Founded in 2013 by RA Washington, GTK Creative's aim is to publish stories and poems that make us think about who we are, our community, the world, and our place in it. Since the beginning, GTK Creative has been home to emerging and marginalized voices and a place for writers and readers to come together in appreciation and celebration of each other.
