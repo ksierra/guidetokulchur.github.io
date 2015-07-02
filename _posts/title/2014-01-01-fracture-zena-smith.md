@@ -8,7 +8,7 @@ collection: "vanguard-series"
 published: true
 cover: zenacoverfracture.jpg
 price: "10.00"
-description: null
+description: Debut collection by one of Cleveland most promising emerging underground poets.
 instock: true
 authorbio: null
 isbn: "939456704321"
