@@ -6,10 +6,13 @@ title: "Creative Journal Issue #2"
 releasedate: "2014-012-01 21:35 -0400"
 instock: false
 collection: "gtk-creative-journal"
-description: Winter 2014
+description: null
 permalink: "creative-journal-2"
 price: "10.00"
+cover: CreativeJournal2.jpg
 ---
+
+![CreativeJournal2.jpg]({{site.baseurl}}/media/CreativeJournal2.jpg)
 
 
 ##Table of Contents
