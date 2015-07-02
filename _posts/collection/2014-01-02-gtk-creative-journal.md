@@ -6,7 +6,7 @@ permalink: "gtk-creative-journal"
 collectiontype: journal
 published: true
 cover: 1210111_389.JPG
-description: null
+description: creative journal description
 ---
 
 
