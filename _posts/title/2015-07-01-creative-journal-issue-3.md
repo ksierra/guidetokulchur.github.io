@@ -8,7 +8,11 @@ instock: true
 collection: "gtk-creative-journal"
 description: null
 permalink: "creative-journal-3"
+cover: CreativeJournal3.jpg
 ---
+
+
+
 
 
 ## A New Post
