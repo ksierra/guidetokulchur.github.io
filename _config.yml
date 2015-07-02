@@ -37,12 +37,10 @@ prose:
         field:
           element: "text"
           label: "Title"
-          value: ""
       - name: "permalink"
         field:
           element: "text"
           label: "Permalink"
-          value: ""
       - name: "cover"
         field:
           element: "text"
@@ -53,7 +51,7 @@ prose:
         field:
           element: "textarea"
           label: "Short Description"
-          value: ""
+          placeholder: "A description that shows up on the collection page and elsewhere"
       - name: "author"
         field:
           element: "text"
