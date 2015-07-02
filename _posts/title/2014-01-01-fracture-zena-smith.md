@@ -19,8 +19,4 @@ releasedate: "2015-02-05 15:57 -0400"
 ---
 
 
-
-
-
-
 Zena smith is a scraggly baby-poet from Cleveland, OH. She is cranky all the time. If you see her in public, buy her a cup of coffee because she needs it.
