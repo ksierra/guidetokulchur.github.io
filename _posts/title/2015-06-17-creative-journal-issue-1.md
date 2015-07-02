@@ -4,13 +4,14 @@ category: title
 published: true
 title: "Creative Journal Issue #1"
 collection: "gtk-creative-journal"
-description: null
+description: Spring 2014
 authorbio: null
 price: "10.00"
 permalink: "creative-journal-1"
 instock: false
 releasedate: "2014-02-01 21:34 -0400"
 ---
+
 
 
 
@@ -53,6 +54,3 @@ releasedate: "2014-02-01 21:34 -0400"
 35. Mandy Szostek
 36. Shepard Weita
 
-## Description
-On the Question of FREE[DOM]
-Spring 2014
