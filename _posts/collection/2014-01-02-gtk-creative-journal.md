@@ -5,10 +5,11 @@ title: GTK Creative Journal
 permalink: "gtk-creative-journal"
 collectiontype: journal
 published: true
-cover: "glenville-normalsize.jpg"
-description: Home to emerging and marginalized voices
+cover: 1210111_389.JPG
+description: null
 ---
 
+![]({{site.baseurl}}/media/1210111_389.JPG)
 
 
 
