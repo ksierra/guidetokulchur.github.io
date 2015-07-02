@@ -6,8 +6,9 @@ permalink: "gtk-creative-journal"
 collectiontype: journal
 published: true
 cover: "glenville-normalsize.jpg"
-description: Home to emerging and marginalized voices.
+description: Home to emerging and marginalized voices
 ---
+
 
 
 
