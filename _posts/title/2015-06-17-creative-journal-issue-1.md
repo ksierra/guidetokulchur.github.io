@@ -40,7 +40,7 @@ releasedate: "2014-02-01 21:34 -0400"
 22. Shawn Mishak
 23. Tom Nomad
 24. Ryan Pearl
-25. Marlee Pickles
+25. Marlee Pickles (cover)
 26. James Evans Remick II
 27. Isabel Rodriguez
 28. Rob Rosin
