@@ -142,7 +142,7 @@ prose:
         field:
           element: "textarea"
           label: "Short Description"
-          value: ""
+          placeholder: "A description that shows up on the front page and elsewhere"
       - name: "collectiontype"
         field:
           label: "Collection Type"
