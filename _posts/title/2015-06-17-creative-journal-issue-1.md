@@ -4,16 +4,16 @@ category: title
 published: true
 title: "Creative Journal Issue #1"
 collection: "gtk-creative-journal"
-description: Spring 2014
+description: null
 authorbio: null
 price: "10.00"
 permalink: "creative-journal-1"
 instock: false
 releasedate: "2014-02-01 21:34 -0400"
+cover: CreativeJournal1.JPG
 ---
 
-
-
+![CreativeJournal1.JPG]({{site.baseurl}}/media/CreativeJournal1.JPG)
 
 ## Table of Contents
 
@@ -53,4 +53,3 @@ releasedate: "2014-02-01 21:34 -0400"
 34. Darius Stubbs
 35. Mandy Szostek
 36. Shepard Weita
-
