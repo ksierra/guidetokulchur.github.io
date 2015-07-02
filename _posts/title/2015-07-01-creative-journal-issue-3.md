@@ -13,7 +13,8 @@ price: "10.00"
 ---
 
 
-##Table of Contents
+
+##In This Issue:
 1. Zane Brain
 2. Ray McNiece
 3. Holly Jensen
