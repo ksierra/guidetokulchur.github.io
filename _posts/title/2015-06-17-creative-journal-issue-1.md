@@ -13,10 +13,6 @@ releasedate: "2014-02-01 21:34 -0400"
 cover: CrativeJournalnew1.jpg
 ---
 
-![CrativeJournalnew1.jpg]({{site.baseurl}}/media/CrativeJournalnew1.jpg)
-
-
-
 ## Table of Contents
 
 1. Amanda Aki
@@ -29,7 +25,7 @@ cover: CrativeJournalnew1.jpg
 8. Robert Darkmatter
 9. Charles Evans
 10. Zach Fishel
-11. GORK
+11. GORK (photography)
 12. Maggie Halm
 13. Holly Jensen
 14. Elizabeth Kenney
