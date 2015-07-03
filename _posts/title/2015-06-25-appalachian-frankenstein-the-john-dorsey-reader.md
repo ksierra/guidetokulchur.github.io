@@ -3,7 +3,7 @@ layout: title
 category: title
 published: true
 title: "Appalachian Frankenstein: The John Dorsey Reader"
-releasedate: "2015-10-0116:14 -0400"
+releasedate: "2015-10-01"
 instock: true
 collection: "vanguard-series"
 description: "Collected from over 20 years of publications, chapbooks and broadsides - Appalachian Frankenstein shows a prolific and gifted voice, Dorsey will go down as one of the essential voices of the Post Beat generation."

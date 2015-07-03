@@ -35,11 +35,13 @@ section: titles
             {% else %}
             <p><strong>Currently out of stock</strong></p>
             {% endif %}
+            <div class="well">
             {% if page.releasedate %}<p><strong>Release Date:</strong> {{ page.releasedate | date: '%B %d, %Y' }}</p>{% endif %}
 <!--             {% if page.numinstock %}<p><strong># in stock:</strong> {{page.numinstock}}</p>{% endif %} -->
             {% if page.isbn %}<p><strong>ISBN:</strong> {{page.isbn}}</p>{% endif %}
             {% if page.numpages %}<p><strong># pages:</strong> {{page.numpages}}</p>{% endif %}
             {% if page.dimensions %}<p><strong>Dimensions:</strong> {{page.dimensions}}</p>{% endif %}
+            </div>
         </div>
         <div class="col-md-7">
             <div class='page-header'>
