@@ -6,6 +6,11 @@ section: titles
 <div class='container'>
     <div class="row">
         <div class="col-md-5">
+        {% assign order_text = "Order" %}
+        {% assign curr_date = site.time | date: "%Y-%m-%d" %}
+        {% if page.releasedate >= curr_date %}
+        {% assign order_text = "Preorder" %}
+        {% endif %}
             {% if page.cover %}
             <a href="#{{page.cover}}">
               <img class="thumbnail" src='{{site.baseurl}}/{{site.prose.media}}/{{page.cover}}' style="width:100%; margin-top:3em" />
@@ -27,7 +32,7 @@ section: titles
               <input type="hidden" name="amount" value="{{page.price}}" />
               <input type="hidden" name="currency_code" value="USD" />
               <input type="hidden" name="shipping" value="1.00">
-              <h3>Order this title</h3>
+              <h3>{{order_text}} this title</h3>
               <div>${{page.price}} plus shipping</div>
               <input class="btn btn-primary" type="submit" name="submit" value="Add to cart" />
             </form>
@@ -36,11 +41,11 @@ section: titles
             <p><strong>Currently out of stock</strong></p>
             {% endif %}
             <div class="well">
-            {% if page.releasedate %}<p><strong>Release Date:</strong> {{ page.releasedate | date: '%B %d, %Y' }}</p>{% endif %}
-<!--             {% if page.numinstock %}<p><strong># in stock:</strong> {{page.numinstock}}</p>{% endif %} -->
-            {% if page.isbn %}<p><strong>ISBN:</strong> {{page.isbn}}</p>{% endif %}
-            {% if page.numpages %}<p><strong># pages:</strong> {{page.numpages}}</p>{% endif %}
-            {% if page.dimensions %}<p><strong>Dimensions:</strong> {{page.dimensions}}</p>{% endif %}
+              {% if page.releasedate %}<p><strong>Release Date:</strong> {{ page.releasedate | date: '%B %d, %Y' }}</p>{% endif %}
+  <!--             {% if page.numinstock %}<p><strong># in stock:</strong> {{page.numinstock}}</p>{% endif %} -->
+              {% if page.isbn %}<p><strong>ISBN:</strong> {{page.isbn}}</p>{% endif %}
+              {% if page.numpages %}<p><strong># pages:</strong> {{page.numpages}}</p>{% endif %}
+              {% if page.dimensions %}<p><strong>Dimensions:</strong> {{page.dimensions}}</p>{% endif %}
             </div>
         </div>
         <div class="col-md-7">

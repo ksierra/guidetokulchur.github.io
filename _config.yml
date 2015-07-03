@@ -73,7 +73,8 @@ prose:
         field:
           element: "text"
           label: "Release Date"
-          value: "CURRENT_DATETIME"
+          placeholder: 1999-02-01
+          help: "Use the format year-mo-da, such as 1999-02-04"
       - name: "instock"
         field:
           element: checkbox

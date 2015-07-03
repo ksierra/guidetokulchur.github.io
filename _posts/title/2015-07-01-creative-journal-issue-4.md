@@ -3,7 +3,7 @@ layout: title
 category: title
 published: true
 title: "Creative Journal Issue #4"
-releasedate: "2015-07-01 21:48 -0400"
+releasedate: "2015-08-01"
 instock: true
 collection: "gtk-creative-journal"
 description: null

@@ -178,3 +178,13 @@ footer div {
   font-family: FontAwesome, 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size:100%;
 }
+
+
+.list-group-item {
+    border: 0 none;
+}
+
+body.section-all .list-group-item {
+    height:650px;
+
+}
