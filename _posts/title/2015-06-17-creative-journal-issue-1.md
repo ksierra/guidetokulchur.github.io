@@ -13,7 +13,8 @@ releasedate: "2014-02-01 21:34 -0400"
 cover: CrativeJournalnew1.jpg
 ---
 
-## Table of Contents
+
+## In This Issue:
 
 1. Amanda Aki
 2. BREE
