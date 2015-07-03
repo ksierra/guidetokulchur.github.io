@@ -3,6 +3,7 @@ layout: default
 section: index
 title: 'Literature and Theory from the Margins'
 ---
+{% assign curr_date = site.time | date: "%Y-%m-%d" %}
 <div class="row-fluid">
 <div class="banner-image"  style="background-image: url({{site.baseurl}}/{{site.prose.media}}/{{site.defaultcover}})">
 
@@ -30,7 +31,6 @@ title: 'Literature and Theory from the Margins'
           <h2>New Releases</h2>
           <div class="list-group">
                 {% for item in site.categories.title limit:6 sort: 'releasedate' %}
-                {% assign curr_date = site.time | date: "%Y-%m-%d" %}
                 {% if item.releasedate <= curr_date %}
                 <a href="{{site.baseurl}}{{item.url}}" class="list-group-item">
                 <div class="row">
@@ -53,7 +53,6 @@ title: 'Literature and Theory from the Margins'
             <h2>Upcoming Releases</h2>
             <div class="list-group">
                 {% for item in site.categories.title limit:6 sort: 'releasedate' %}
-                {% assign curr_date = site.time | date: "%Y-%m-%d" %}
                 {% if item.releasedate >= curr_date %}
                 <a href="{{site.baseurl}}{{item.url}}" class="list-group-item">
                 <div class="row">
