@@ -12,9 +12,6 @@ price: "10.00"
 cover: CreativeJournal2.jpg
 ---
 
-![CreativeJournal2.jpg]({{site.baseurl}}/media/CreativeJournal2.jpg)
-
-
 ##Table of Contents
 1. Bree
 2. Zena Smith
