@@ -17,29 +17,26 @@ numpages: "495, spanning 2 volumes with a letterpressed vellum wrap"
 dimensions: 5 by 6
 ---
 
-##From Appalachian Frankenstein- 
-				Excerpt from the poem icarus revisited
 
-an outsider in 
-                   his 
-                   own heart
-blowing unrequited kisses 
-                   at the pavement
+##From Appalachian Frankenstein-
 
-where ex-lovers looked like ants
-swooning to a silent ballet
-only he knew the words to
+**Excerpt from the poem icarus revisited**
 
-making beautiful music
-composing his melody 
-                   in blood.
+    an outsider in 
+                       his 
+                       own heart
+    blowing unrequited kisses 
+                       at the pavement
+    
+    where ex-lovers looked like ants
+    swooning to a silent ballet
+    only he knew the words to
+    
+    making beautiful music
+    composing his melody 
+                       in blood.
                  
 ### Praise for John Dorsey
 
 When I teach the poems of John Dorsey to my students, they almost universally say, “yes.” Through their largely young eyes, I try to imagine what part of the universe Dorsey has touched within them. For years now I’ve been trying to figure out the same thing for myself as over, and over again, I come back to Dorsey’s collections hoping there’s one I’ve missed…as if the poems have grown up and had children between the pages and new words lay there just waking up. I am never disappointed. Dorsey’s poems reinvent themselves for us every time we read them. That is what my students see – they see themselves, both past and future. I seem to always see myself in his present. 
 **-D.E. Oprava**
-
-
-                 
-
-
