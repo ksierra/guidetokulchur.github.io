@@ -1,12 +1,12 @@
 ---
 layout: title
 category: title
-published: true
+published: false
 title: Calling Out After Slaughter
 releasedate: "2015-08-01 22:07 -0400"
 instock: true
 collection: "vanguard-series"
-description: null
+description: "A long awaited collection queering the legacy of genocide and slavery in the Americas as an intimate intersection--here and now."
 cover: callingout.jpg
 author: M. Carmen Lane
 price: "10.00"
