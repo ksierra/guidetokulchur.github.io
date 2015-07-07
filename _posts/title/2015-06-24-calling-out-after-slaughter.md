@@ -1,7 +1,7 @@
 ---
 layout: title
 category: title
-published: false
+published: true
 title: Calling Out After Slaughter
 releasedate: "2015-08-01 22:07 -0400"
 instock: true
