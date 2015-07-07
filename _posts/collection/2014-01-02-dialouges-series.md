@@ -1,11 +1,15 @@
 ---
-title: "Dialogues Series"
-permalink: dialogues-series
-collectiontype: series
-published: true
 layout: collection
 category: collection
-cover: vanguard.jpg
+title: Dialogues Series
+permalink: "dialogues-series"
+collectiontype: series
+published: true
+cover: 10846270_310853725772360_6462615766911259361_n.jpg
+description: null
 ---
 
-Vanguard series is AWESOME
+
+Dialogue Series 
+
+
