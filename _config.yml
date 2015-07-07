@@ -3,7 +3,12 @@ permalink: pretty
 markdown: rdiscount
 port: 3200
 host: 127.0.0.1
-about: "WORKING IN THE TRADITION OF INDEPENDENT PRESSES SINCE ITS INCEPTION, GTK PRESS PUBLISHES WORKS OF THEORY, FICTION, POETRY, MADNESS, ECONOMICS, SATIRE, SEXUALITY, SCIENCE FICTION, ACTIVISM AND CONFESSION THROUGH SEVERAL PRINT PROJECTS. GTK PRESS IS A COOPERATIVE PRINT WORKSHOP INTERESTED IN MELDING HIGH AND LOW FORMS OF CULTURAL EXPRESSION INTO A NUANCED AND POLEMICAL VISION OF THE PRESENT."
+about: >
+  Working in the tradition of independent presses since its inception, gtk press
+  publishes works of theory, fiction, poetry, madness, economics, satire, sexuality,
+  science fiction, activism and confession through several print projects. Gtk press
+  is a cooperative print workshop interested in melding high and low forms of cultural
+  expression into a nuanced and polemical vision of the present.
 paypal:
   email: clevelandtapes@yahoo.com
 defaultphoto: "https://placeholdit.imgix.net/~text?txtsize=42&txt=Image+Coming+Soon&w=600&h=400"

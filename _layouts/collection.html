@@ -1,6 +1,21 @@
 ---
 layout: default
 ---
+{% assign curr_date = site.time | date: "%Y-%m-%d" %}
+{% assign item_label = "Titles" %}
+{% if page.collectiontype == "journal" %}
+{% assign item_label = "Issues" %}
+{% endif %}
+{% assign titles = site.categories.title limit:400 | where:'collection', page.permalink %}
+{% assign current_titles = false %}
+{% assign upcoming_titles = false %}
+{% for item in titles %}
+  {% if item.releasedate <= curr_date %}
+      {% assign current_titles = true %}
+  {% else if item.releasedate <= curr_date %}
+      {% assign upcoming_titles = true %}
+  {% endif %}
+{% endfor %}
 <div class="banner-image" style="background-image:url('{{site.baseurl}}/{{site.prose.media}}/{{page.cover}}')">
 </div>
 <div class="banner-overlay-wrapper">
@@ -40,21 +55,15 @@ layout: default
 
         </div>
         <div class="col-md-8">
-        <div class="panel panel-default">
-          <div class="panel-heading">
-            {% if page.collectiontype == "journal" %}
-            <h4>Issues</h4>
-            {% else if page.collectiontype == "series" %}
-            <h4>Available Titles</h4>
-            {% endif %}
-            </div>
-            <div class="list-group">
-                {% for item in site.categories.title limit:400 %}
-                  {% if item.collection == page.permalink %}
+            {% if current_titles %}
+            <h2>Available {{item_label}}</h2>
+             <div class="list-group">
+                {% for item in titles %}
+                  {% if item.releasedate <= curr_date %}
                   <a href="{{site.baseurl}}{{item.url}}" class="list-group-item">
                   <div class="row">
                       <div class="col-md-4">
-                      {% if item.cover%}
+                      {% if item.cover %}
                       <img style="width:100%" src="{{site.baseurl}}/{{site.prose.media}}/{{item.cover}}">
                       {% else %}
                       <img src="{{site.defaultphoto}}"style="width:100%;" />
@@ -67,8 +76,33 @@ layout: default
                       </div>
                   </a>
                   {% endif %}
-                {% endfor %}
-            </div>
+                  {% endfor %}
+                </div>
+              {% endif %}
+              {% if upcoming_titles %}
+                <h2>Upcoming {{item_label}}</h2>
+                <div class="list-group">
+                    {% for item in titles %}
+                      {% if item.releasedate >= curr_date %}
+                      <a href="{{site.baseurl}}{{item.url}}" class="list-group-item">
+                      <div class="row">
+                          <div class="col-md-4">
+                          {% if item.cover %}
+                          <img style="width:100%" src="{{site.baseurl}}/{{site.prose.media}}/{{item.cover}}">
+                          {% else %}
+                          <img src="{{site.defaultphoto}}"style="width:100%;" />
+                          {% endif %}
+                          </div>
+                          <div class="col-md-8">
+                              <h4> {{item.title}} {% if item.author %}by {{item.author}}{% endif %}</h4>
+                              <p class="list-group-item-text">{{item.description}}</p>
+                          </div>
+                          </div>
+                      </a>
+                      {% endif %}
+                      {% endfor %}
+                </div>
+                {% endif %}
             </div>
         </div>
     </div>
