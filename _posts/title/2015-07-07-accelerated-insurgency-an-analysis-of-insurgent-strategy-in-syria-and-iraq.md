@@ -16,7 +16,10 @@ numpages: "230"
 dimensions: 5.5 by 8
 ---
 
-![]({{site.baseurl}}/media/Accelerated%20Insurgency.jpg![Accelerated Insurgency.jpg]({{site.baseurl}}/media/Accelerated Insurgency.jpg)
+## ACCELERATED  INSURGENCY: An Analysis of Insurgent Strategy in Syria and Iraq
+
+A detailed analysis of Syria and Iraq insurgencies and the strategies that fuel it. 
 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+
