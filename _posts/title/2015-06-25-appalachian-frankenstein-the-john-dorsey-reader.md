@@ -1,12 +1,12 @@
 ---
 layout: title
 category: title
-published: true
+published: false
 title: "Appalachian Frankenstein: The John Dorsey Reader"
 releasedate: "2015-10-01"
 instock: true
 collection: "vanguard-series"
-description: null
+description: Appalachian Frankenstein is collected from over 20 years of published and unpublished material by one of the most prolific writers of the Post Beat Generation.
 cover: 10007338_10201826919900944_934449360_o.jpg
 permalink: "appalachian-frankenstein"
 author: John Dorsey
@@ -16,6 +16,7 @@ isbn: "978-0-9965460-3-4"
 numpages: "495, spanning 2 volumes with a letterpressed vellum wrap"
 dimensions: 5 by 6
 ---
+
 
 
 
@@ -51,5 +52,4 @@ His work has in numerous magazines and anthologies alongside folks like Antler, 
 
 He has received several nominations for the Pushcart Prize and in 2014 was named Best Literary Artist in Toledo, Ohio, by readers of the Toledo City Paper. 
 
-He may be reached at archerevans@yahoo.com 
-
+He may be reached at archerevans@yahoo.com
