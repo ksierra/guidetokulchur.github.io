@@ -9,7 +9,7 @@ description: A groundbreaking analysis of the insurgent strategies of Syria and 
 cover: Accelerated Insurgency.jpg
 permalink: "accelerated-insurgency"
 author: The Institute for the Study of Insurgent Warfare
-price: "10.00"
+price: "12.00"
 releasedate: "2015-09-11"
 isbn: n/a
 numpages: "230"
