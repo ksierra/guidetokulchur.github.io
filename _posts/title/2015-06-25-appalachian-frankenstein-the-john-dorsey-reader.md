@@ -1,7 +1,7 @@
 ---
 layout: title
 category: title
-published: false
+published: true
 title: "Appalachian Frankenstein: The John Dorsey Reader"
 releasedate: "2015-10-01"
 instock: true
