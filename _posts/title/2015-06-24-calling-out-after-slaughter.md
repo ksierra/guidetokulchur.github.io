@@ -1,7 +1,7 @@
 ---
 layout: title
 category: title
-published: true
+published: false
 title: Calling Out After Slaughter
 releasedate: "2015-08-01 22:07 -0400"
 instock: true
@@ -10,7 +10,7 @@ description: null
 cover: callingout.jpg
 author: M. Carmen Lane
 price: "12.00"
-numpages: "80"
+numpages: 107 ppgs with cover art by Fox A.C. Spears
 dimensions: 5 by 8
 isbn: "978-0-9965460-2-7"
 permalink: "calling-out-after-slaughter"
