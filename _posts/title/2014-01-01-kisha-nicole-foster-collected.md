@@ -5,7 +5,7 @@ title: "Poems 1999-2014"
 author: Kisha Nicole Foster
 permalink: "kisha-nicole-foster-poems-1999-2014"
 collection: "vanguard-series"
-published: true
+published: false
 cover: "kisha-cover.jpg"
 price: "10.00"
 description: null
@@ -16,6 +16,7 @@ isbn: "978-0-9965460-1-0"
 numpages: "100"
 dimensions: 5 by 8
 ---
+
 
 
 ## – From Lyz Bly’s Introduction of Poems 1999 -2014
