@@ -6,7 +6,7 @@ title: "Emergency Hearts, Molotov Dreams"
 releasedate: "2015-08-01 17:29 -0400"
 instock: true
 collection: "dialogues-series"
-description: "\"A must-read for anyone who is ready to face the reality that to create social change we need to step away from our computers and into the streets.\"\n— lauren Ornelas, Founder and Director Food Empowerment Project, contributor to the anthology Sister Species: Women, Animals, and Social Justice "
+description: "A must-read for anyone who is ready to face the reality that to create social change we need to step away from our computers and into the streets."
 authorbio: null
 permalink: "emergency-hearts-molotov-dreams"
 cover: "scott_crow-9_star.jpg"
@@ -19,16 +19,20 @@ dimensions: 5 by 8
 
 
 
+
 ## Praise for Emergency Hearts, Molotov Dreams
 
- "This book is scott crow’s contribution to an emerging body of traditional wisdom and anarchist thought that inspires us to not squander our most vital resources and continue the struggles for a better world with our emergency hearts open."
-### — Chris Hannah, singer and guitarist with Propagandhi
+> "This book is scott crow’s contribution to an emerging body of traditional wisdom and anarchist thought that inspires us to not squander our most vital resources and continue the struggles for a better world with our emergency hearts open."
 
-"Virtual reality, impossible dream? No this is real life. scott crow, the most important writer on anarchism in action in decades, chronicles extraordinary experiences and insights in moving, passionate, brilliant words that show people motivated by anarchist ideas and compassionate spirits of  mutual aid and self-organization." 
-### —  Penelope Rosemont, editor of Surrealist Women: An International Anthology, co-founder the Chicago Surrealist Group
+**— Chris Hannah, singer and guitarist with Propagandhi**
 
-"Through these illuminating interviews, crow shares his critically valuable thoughts on State oppression, class inequality, social exclusion, and the destruction of the biosphere. He hails advancing dual power, resistance culture, direct action, anti-authoritarian internationalism, and inter-species solidarity together with courage and joy."
-### — Javier Sethness Castro, author of Imperiled Life: Revolution against Climate Catastrophe
+> "Virtual reality, impossible dream? No this is real life. scott crow, the most important writer on anarchism in action in decades, chronicles extraordinary experiences and insights in moving, passionate, brilliant words that show people motivated by anarchist ideas and compassionate spirits of  mutual aid and self-organization."
+
+**—  Penelope Rosemont, editor of Surrealist Women: An International Anthology, co-founder the Chicago Surrealist Group**
+
+> "Through these illuminating interviews, crow shares his critically valuable thoughts on State oppression, class inequality, social exclusion, and the destruction of the biosphere. He hails advancing dual power, resistance culture, direct action, anti-authoritarian internationalism, and inter-species solidarity together with courage and joy."
+
+** — Javier Sethness Castro, author of Imperiled Life: Revolution against Climate Catastrophe**
 
 "When the crow caws, listen! These stories are about envisioning more than what most of us are are used to; connecting with, and within, more than we give lip service to, and coming to grips with danger and opportunities for liberation in the grip of the Monstrous Empire. He opens the hardened layers of pain & suffering in the faith that Love, beyond Che cliques, will carry us thru to the authentic total liberation and happiness we all deserve on the death ashes of Capitalism." 
 ### — Ashanti Alston, writer, speaker, former Black Panther and Institute for Anarchist Studies board member
