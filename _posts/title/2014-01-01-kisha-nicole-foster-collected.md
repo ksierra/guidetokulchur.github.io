@@ -5,7 +5,7 @@ title: "Poems 1999-2014"
 author: Kisha Nicole Foster
 permalink: "kisha-nicole-foster-poems-1999-2014"
 collection: "vanguard-series"
-published: false
+published: true
 cover: "kisha-cover.jpg"
 price: "10.00"
 description: "The debut collection of poems collected from 1999 - 2014 by one of the country's most awe inspring performance poets."
