@@ -22,7 +22,7 @@ permalink: "calling-out-after-slaughter"
 
 ### About M. Carmen Lane
 
-M.Carmen Lane (African-American/Mohawk/Tuscarora) is a poet and cultural worker. Carmen's work has been published in Red Ink Magazine, The Yellow Medicine Review and is a contributor to the Lambda Literary Award nominated anthology Sovereign Erotics: A Collection of Two-Spirit Literature.
+Carmen Lane (African-American/Mohawk/Tuscarora) is a poet and cultural worker. Carmen's work has been published in Red Ink Magazine, The Yellow Medicine Review and is a contributor to the Lambda Literary Award nominated anthology Sovereign Erotics: A Collection of Two-Spirit Literature.
 
 ### Cover Art by 
 
