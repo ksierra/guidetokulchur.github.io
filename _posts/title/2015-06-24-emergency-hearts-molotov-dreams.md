@@ -6,16 +6,18 @@ title: "Emergency Hearts, Molotov Dreams"
 releasedate: "2015-08-01 17:29 -0400"
 instock: true
 collection: "dialogues-series"
-description: "A must-read for anyone who is ready to face the reality that to create social change we need to step away from our computers and into the streets."
+description: "\"A must-read for anyone who is ready to face the reality that to create social change we need to step away from our computers and into the streets.\"\n — lauren Ornelas, Founder and Director Food Empowerment Project, contributor to the anthology Sister Species: Women, Animals, and Social Justice"
 authorbio: null
 permalink: "emergency-hearts-molotov-dreams"
-cover: "scott_crow-9_star.jpg"
+cover: "Cover Mock-up.jpg"
 author: scott crow
 isbn: "978-0-9965460-0-3"
 price: "20.00"
 numpages: "300"
 dimensions: 5 by 8
 ---
+
+
 
 
 
