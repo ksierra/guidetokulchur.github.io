@@ -12,7 +12,8 @@ price: "12.00"
 cover: CreativeJournal2.jpg
 ---
 
-##Table of Contents
+
+##In This Issue:
 1. Bree
 2. Zena Smith
 3. Holly Jensen
