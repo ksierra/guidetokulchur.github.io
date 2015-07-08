@@ -7,7 +7,7 @@ permalink: "fracture-zena-smith"
 collection: "vanguard-series"
 published: true
 cover: zenacoverfracture.jpg
-price: "10.00"
+price: "12.00"
 description: Debut collection by one of Cleveland most promising emerging underground poets.
 instock: true
 authorbio: null

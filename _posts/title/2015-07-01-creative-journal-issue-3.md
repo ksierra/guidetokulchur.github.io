@@ -9,7 +9,7 @@ collection: "gtk-creative-journal"
 description: null
 permalink: "creative-journal-3"
 cover: CreativeJournal3.jpg
-price: "10.00"
+price: "12.00"
 ---
 
 ##In This Issue:

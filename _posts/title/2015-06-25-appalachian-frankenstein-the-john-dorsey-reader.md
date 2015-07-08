@@ -10,7 +10,7 @@ description: Appalachian Frankenstein is collected from over 20 years of publish
 cover: 10007338_10201826919900944_934449360_o.jpg
 permalink: "appalachian-frankenstein"
 author: John Dorsey
-price: "25.00"
+price: "27.00"
 numinstock: "300 1st Edition, spanning 2 volumes with a letter pressed vellum wrap"
 isbn: "978-0-9965460-3-4"
 numpages: "495, spanning 2 volumes with a letterpressed vellum wrap"

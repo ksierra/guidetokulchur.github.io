@@ -6,7 +6,7 @@ title: "Creative Journal Issue #1"
 collection: "gtk-creative-journal"
 description: null
 authorbio: null
-price: "10.00"
+price: "12.00"
 permalink: "creative-journal-1"
 instock: false
 releasedate: "2014-02-01 21:34 -0400"

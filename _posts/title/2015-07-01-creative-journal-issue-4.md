@@ -8,7 +8,7 @@ instock: true
 collection: "gtk-creative-journal"
 description: null
 permalink: "creative-journal-4"
-price: "10.00"
+price: "12.00"
 cover: CreativeJournal4.jpg
 ---
 

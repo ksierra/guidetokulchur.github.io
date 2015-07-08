@@ -12,7 +12,7 @@ permalink: "emergency-hearts-molotov-dreams"
 cover: "scott_crow-9_star.jpg"
 author: scott crow
 isbn: "978-0-9965460-0-3"
-price: "18.00"
+price: "20.00"
 numpages: "300"
 dimensions: 5 by 8
 ---
