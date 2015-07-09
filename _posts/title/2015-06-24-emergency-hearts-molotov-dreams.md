@@ -46,6 +46,7 @@ dimensions: 5 by 8
 ** — lauren Ornelas, Founder and Director Food Empowerment Project, contributor to the anthology Sister Species: Women, Animals, and Social Justice**
 
 > "_Emergency Hearts, Molotov Dreams_ compiles many of crow’s evolving thoughts and conversations on a range of topics addressing liberation with the sincerity, passion , wisdom and much needed inspiration for the many struggles ahead."
+
 **— Leslie James Pickering, author The Earth Liberation Front: 1997–2002, co-founder Burning Books.**
 
 ## About scott crow
