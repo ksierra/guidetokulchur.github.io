@@ -1,13 +1,26 @@
 ---
 layout: static
 category: static
-published: false
-title: "Submission Guidelines"
+published: true
+title: Submission Guidelines
 permalink: "submission-guidelines"
 ---
 
 
 
+
 ## Submissions are Currently Closed
 
-Send up to 10 pages of poetry, fiction, and/or creative nonfiction to submissions.gtkjournal@gmail.com. No PDFs, please. Include a brief, 50-word bio in the body of the email. Tell us how you heard about us.
+July 11–August 22-Reading period (Fall)
+
+Guidelines:
+
+Up to ten pages (no pdf files) of poetry, short fiction and personal essay. Work previously published will not be considered.
+
+Simultaneous submissions are accepted so long as you inform us immediately that your work has been accepted elsewhere.
+
+Please include a short bio, 50 words max.
+
+Send your work to submissions.gtkjournal@gmail.com
+
+*********Submissions for Issue 5 are currently closed.********
