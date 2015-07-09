@@ -4,7 +4,7 @@ category: title
 published: true
 title: "Creative Journal Issue #1"
 collection: "gtk-creative-journal"
-description: "Spring 2014 35 contributors from Montreal, Quebec to Tokyo, Japan"
+description: "35 contributors from Montreal, Quebec to Tokyo Japan"
 authorbio: null
 price: "12.00"
 permalink: "creative-journal-1"
@@ -12,6 +12,7 @@ instock: false
 releasedate: "2014-02-01 21:34 -0400"
 cover: CrativeJournalnew1.jpg
 ---
+
 
 
 
