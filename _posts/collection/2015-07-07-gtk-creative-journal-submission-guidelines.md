@@ -9,7 +9,7 @@ cover: GTKCreativeSubGuidelines.JPG
 permalink: "gtk-creative-journal-submission-guidelines"
 ---
 
-![GTKCreativeSubGuidelines.JPG]({{site.baseurl}}/media/GTKCreativeSubGuidelines.JPG)
+
 ## Submissions: Currently Closed
 
 July 11–August 22-Reading period (Fall)
