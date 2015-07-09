@@ -6,11 +6,12 @@ title: "Creative Journal Issue #2"
 releasedate: "2014-012-01 21:35 -0400"
 instock: false
 collection: "gtk-creative-journal"
-description: null
+description: "31 contributors hailing from Chicago, IL to West Bengal, India."
 permalink: "creative-journal-2"
 price: "12.00"
 cover: CreativeJournal2.jpg
 ---
+
 
 
 ##In This Issue:
