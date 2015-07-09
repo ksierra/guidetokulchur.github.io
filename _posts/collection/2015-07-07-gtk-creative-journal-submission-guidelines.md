@@ -5,11 +5,11 @@ published: true
 title: GTK Creative Journal Submission Guidelines
 collectiontype: journal
 description: null
-cover: "stock-footage-underwater-blue-surface-with-rays-of-light-high-definition-p-seamless-loop-slow-motion.jpg"
+cover: GTKCreativeSubGuidelines.JPG
 permalink: "gtk-creative-journal-submission-guidelines"
 ---
 
-
+![GTKCreativeSubGuidelines.JPG]({{site.baseurl}}/media/GTKCreativeSubGuidelines.JPG)
 ## Submissions: Currently Closed
 
 July 11–August 22-Reading period (Fall)
