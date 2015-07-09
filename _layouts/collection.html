@@ -6,7 +6,7 @@ layout: default
 {% if page.collectiontype == "journal" %}
 {% assign item_label = "Issues" %}
 {% endif %}
-{% assign titles = site.categories.title limit:400 | where:'collection', page.permalink %}
+{% assign titles = site.categories.title limit:400 | where:'collection', page.permalink | sort: 'releasedate' %}
 {% assign current_titles = false %}
 {% assign upcoming_titles = false %}
 {% for item in titles %}
