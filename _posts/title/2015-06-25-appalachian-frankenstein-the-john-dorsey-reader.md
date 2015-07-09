@@ -7,7 +7,7 @@ releasedate: "2015-10-01"
 instock: true
 collection: "vanguard-series"
 description: Appalachian Frankenstein is collected from over 20 years of published and unpublished material by one of the most prolific writers of the Post Beat Generation.
-cover: 10007338_10201826919900944_934449360_o.jpg
+cover: john-dorsey-at-gtk.jpg
 permalink: "appalachian-frankenstein"
 author: John Dorsey
 price: "27.00"
