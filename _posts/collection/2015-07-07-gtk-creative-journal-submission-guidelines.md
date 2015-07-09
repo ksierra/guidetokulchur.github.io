@@ -9,7 +9,8 @@ cover: "stock-footage-underwater-blue-surface-with-rays-of-light-high-definition
 permalink: "gtk-creative-journal-submission-guidelines"
 ---
 
-## Submissions are Currently Closed
+
+## Submissions: Currently Closed
 
 July 11–August 22-Reading period (Fall)
 
