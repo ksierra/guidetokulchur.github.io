@@ -6,11 +6,12 @@ title: "Creative Journal Issue #4"
 releasedate: "2015-08-01"
 instock: true
 collection: "gtk-creative-journal"
-description: "Summer 2015 LGBTQIA and Two-Spirit Issue"
+description: "LGBTQIA and Two-Spirit Issue"
 permalink: "creative-journal-4"
 price: "12.00"
 cover: CreativeJournal4.jpg
 ---
+
 
 
 
