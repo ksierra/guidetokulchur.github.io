@@ -6,7 +6,7 @@ title: "Emergency Hearts, Molotov Dreams"
 releasedate: "2015-08-01 17:29 -0400"
 instock: true
 collection: "dialogues-series"
-description: "\"A must-read for anyone who is ready to face the reality that to create social change we need to step away from our computers and into the streets.\"\n — lauren Ornelas, Founder and Director Food Empowerment Project, contributor to the anthology Sister Species: Women, Animals, and Social Justice"
+description: null
 authorbio: null
 permalink: "emergency-hearts-molotov-dreams"
 cover: "Cover Mock-up.jpg"
@@ -16,6 +16,7 @@ price: "20.00"
 numpages: "300"
 dimensions: 5 by 8
 ---
+
 
 
 
@@ -36,16 +37,16 @@ dimensions: 5 by 8
 
 ** — Javier Sethness Castro, author of Imperiled Life: Revolution against Climate Catastrophe**
 
-"When the crow caws, listen! These stories are about envisioning more than what most of us are are used to; connecting with, and within, more than we give lip service to, and coming to grips with danger and opportunities for liberation in the grip of the Monstrous Empire. He opens the hardened layers of pain & suffering in the faith that Love, beyond Che cliques, will carry us thru to the authentic total liberation and happiness we all deserve on the death ashes of Capitalism." 
-### — Ashanti Alston, writer, speaker, former Black Panther and Institute for Anarchist Studies board member
+> "When the crow caws, listen! These stories are about envisioning more than what most of us are are used to; connecting with, and within, more than we give lip service to, and coming to grips with danger and opportunities for liberation in the grip of the Monstrous Empire. He opens the hardened layers of pain & suffering in the faith that Love, beyond Che cliques, will carry us thru to the authentic total liberation and happiness we all deserve on the death ashes of Capitalism." 
 
-"A must-read for anyone who is ready to face the reality that to create social change we need to step away from our computers and into the streets."
-### — lauren Ornelas, Founder and Director Food Empowerment Project, contributor to the anthology Sister Species: Women, Animals, and Social Justice
+** — Ashanti Alston, writer, speaker, former Black Panther and Institute for Anarchist Studies board member**
 
-"_Emergency Hearts, Molotov Dreams_ compiles many of crow’s evolving thoughts and conversations on a range of topics addressing liberation with the sincerity, passion , wisdom and much needed inspiration for the many struggles ahead." 
-### — Leslie James Pickering, author The Earth Liberation Front: 1997–2002, co-founder Burning Books.
+> "A must-read for anyone who is ready to face the reality that to create social change we need to step away from our computers and into the streets."
 
+** — lauren Ornelas, Founder and Director Food Empowerment Project, contributor to the anthology Sister Species: Women, Animals, and Social Justice**
 
+> "_Emergency Hearts, Molotov Dreams_ compiles many of crow’s evolving thoughts and conversations on a range of topics addressing liberation with the sincerity, passion , wisdom and much needed inspiration for the many struggles ahead."
+**— Leslie James Pickering, author The Earth Liberation Front: 1997–2002, co-founder Burning Books.**
 
 ## About scott crow
 is an international speaker and author . He has engaged his varied life as a coop business co-owner, political organizer, educator and strategist, activist, filmmaker, dad and underground musician in a lifelong quixotic quest of enacting the ideas of collective liberation rooted in the philosophies of anarchy.
