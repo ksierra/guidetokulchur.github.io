@@ -1,7 +1,7 @@
 ---
 layout: collection
 category: collection
-published: false
+published: true
 title: GTK Creative Journal Submission Guidelines
 collectiontype: journal
 description: null
