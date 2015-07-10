@@ -1,13 +1,14 @@
 ---
 layout: collection
 category: collection
-published: true
+published: false
 title: GTK Creative Journal Submission Guidelines
 collectiontype: journal
 description: null
 cover: GTKCreativeSubGuidelines.JPG
 permalink: "gtk-creative-journal-submission-guidelines"
 ---
+
 
 
 ## Submissions: Currently Closed
