@@ -141,6 +141,7 @@ prose:
           element: "text"
           label: "Submissions Path"
           value: ""
+          help: "This is the same as the 'permalink' field for the static page which has the submission guidlines"
       - name: "cover"
         field:
           element: "text"
