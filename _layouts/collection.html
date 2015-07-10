@@ -41,18 +41,13 @@ layout: default
             {{content}}
           </div>
         </div>
-<!--         <div class="panel panel-default">
-          <div class="panel-heading">
-            <h4>Submissions</h4>
-          </div>
+        {% if page.submissionslink %}
+        <div class="panel panel-default">
           <div class="panel-body">
-            {{page.submissioninfo}}
-            <p>Address submissions to {{page.submissionemail}}</p>
-            <a href="mailto:{{page.submissionemail}}" class="btn btn-primary">Submit to the {{page.title}}</a>
+            <a href="{{page.submissionslink}}" class="btn btn-primary">Submit to the {{page.title}}</a>
           </div>
-        </div> -->
-
-
+        </div>
+        {% endif %}
         </div>
         <div class="col-md-8">
             {% if current_titles %}

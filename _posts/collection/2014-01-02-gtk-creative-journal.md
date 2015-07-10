@@ -4,6 +4,7 @@ category: collection
 title: GTK Creative Journal
 permalink: "gtk-creative-journal"
 collectiontype: journal
+submissionslink: gtk-creative-journal-submission-guidelines
 published: true
 cover: 1210111_389.JPG
 description: null
