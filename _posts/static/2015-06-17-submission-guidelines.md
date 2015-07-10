@@ -1,7 +1,7 @@
 ---
 layout: static
 category: static
-published: true
+published: false
 title: Submission Guidelines
 permalink: "submission-guidelines"
 ---
