@@ -136,6 +136,11 @@ prose:
           element: "text"
           label: "Permalink"
           value: ""
+      - name: "submissionslink"
+        field:
+          element: "text"
+          label: "Submissions Path"
+          value: ""
       - name: "cover"
         field:
           element: "text"
@@ -147,6 +152,7 @@ prose:
           element: "textarea"
           label: "Short Description"
           placeholder: "A description that shows up on the front page and elsewhere"
+          value: ""
       - name: "collectiontype"
         field:
           label: "Collection Type"
