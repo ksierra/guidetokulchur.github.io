@@ -184,11 +184,6 @@ footer div {
     border: 0 none;
 }
 
-body.section-all .list-group-item {
-    min-height:750px;
-
-}
-
 pre {
   display: block;
   padding: 20px;
