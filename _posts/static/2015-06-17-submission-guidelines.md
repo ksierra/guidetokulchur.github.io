@@ -2,18 +2,19 @@
 layout: static
 category: static
 published: true
-title: Submission Guidelines
-permalink: "submission-guidelines"
+title: GTK Creative Journal Submission Guidelines
+permalink: "gtk-creative-journal-submission-guidelines"
 ---
-
 
 
 
 ## Submissions are Currently Closed
 
-July 11–August 22-Reading period (Issue 5)
+### Reading Periods
 
-Guidelines:
+* July 11–August 22- (Issue 5)
+
+### Guidelines:
 
 Up to ten pages (no pdf files) of poetry, short fiction and personal essay. Work previously published will not be considered.
 
