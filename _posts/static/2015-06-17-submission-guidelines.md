@@ -8,9 +8,10 @@ permalink: "submission-guidelines"
 
 
 
+
 ## Submissions are Currently Closed
 
-July 11–August 22-Reading period (Fall)
+July 11–August 22-Reading period (Issue 5)
 
 Guidelines:
 
