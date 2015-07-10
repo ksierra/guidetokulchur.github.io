@@ -1,21 +1,23 @@
 ---
 layout: title
 category: title
-published: true
+published: false
 title: "Emergency Hearts, Molotov Dreams"
 releasedate: "2015-08-01 17:29 -0400"
 instock: true
 collection: "dialogues-series"
-description: null
+description: "\"Through these illuminating interviews, crow shares his critically valuable thoughts on State oppression, class inequality, social exclusion, and the destruction of the biosphere. He hails advancing dual power, resistance culture, direct action, anti-authoritarian internationalism, and inter-species solidarity together with courage and joy.\"\n\n— Javier Sethness Castro, author of Imperiled Life: Revolution against Climate Catastrophe"
 authorbio: null
 permalink: "emergency-hearts-molotov-dreams"
-cover: "Cover Mock-up.jpg"
+cover: EH_MF_Cover mock up_correct title _DRAFT.jpg
 author: scott crow
 isbn: "978-0-9965460-0-3"
 price: "20.00"
 numpages: "300"
 dimensions: 5 by 8
 ---
+
+
 
 
 
