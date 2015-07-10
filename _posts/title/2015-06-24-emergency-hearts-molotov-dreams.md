@@ -1,7 +1,7 @@
 ---
 layout: title
 category: title
-published: false
+published: true
 title: "Emergency Hearts, Molotov Dreams"
 releasedate: "2015-08-01 17:29 -0400"
 instock: true
