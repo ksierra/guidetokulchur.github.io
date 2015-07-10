@@ -6,11 +6,15 @@ title: "Creative Journal Issue #3"
 releasedate: "2015-04-01 21:46 -0400"
 instock: true
 collection: "gtk-creative-journal"
-description: null
+description: "28 contributors from San Francisco, California to Imus, Philippines"
 permalink: "creative-journal-3"
 cover: CreativeJournal3.jpg
 price: "12.00"
 ---
+
+
+
+
 
 ##In This Issue:
 1. Zane Brain
