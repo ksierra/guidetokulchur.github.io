@@ -8,7 +8,7 @@ permalink: "gtk-creative-journal-submission-guidelines"
 
 
 
-## Submissions are Currently Closed
+## Submissions are Open
 
 ### Reading Periods
 
@@ -23,5 +23,3 @@ Simultaneous submissions are accepted so long as you inform us immediately that 
 Please include a short bio, 50 words max.
 
 Send your work to submissions.gtkjournal@gmail.com
-
-*********Submissions for Issue 5 are currently closed.********
