@@ -11,8 +11,4 @@ permalink: "creative-journal-4"
 price: "12.00"
 cover: CreativeJournal4.jpg
 ---
-
-
-
-
-##COMING SOON!!!!!!!!!!!
+Details to come...
