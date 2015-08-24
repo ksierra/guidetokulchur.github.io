@@ -18,6 +18,7 @@ dimensions: ""
 ---
 
 
+
 ##from Holly Jensen's
 **"Jean Dark"**
 
@@ -50,7 +51,7 @@ One day I’ll know how to read people’s minds,
 
 but for now I’ll settle for their palms.
 
-**Also in this issue...**
+### Also in this issue...
 1. Zane Brain
 2. Ray McNiece
 3. Holly Jensen
