@@ -20,6 +20,7 @@ dimensions: ""
 
 
 
+
 ### from Sharif Shakhsir's 
 **"Waffle Iron Becomes a Man"**
 
@@ -35,7 +36,7 @@ The waffle maker agreed with her logic.
 
 The waffle iron had no idea how to answer this.
 
-### Also in this Issue...
+### Also in this issue...
 
 1. Barbara Ruth
 2. Shannon McKeehen
