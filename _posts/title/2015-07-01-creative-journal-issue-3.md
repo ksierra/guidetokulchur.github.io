@@ -17,23 +17,37 @@ numpages: ""
 dimensions: ""
 ---
 
+
 ##from Holly Jensen's
 **"Jean Dark"**
 
 
 Backstage is the barrack before the battle,
+
 her hallmark a bitemark, my chignon a handle.
+
 Church had taught her how to sing,
+
 she grew the growl herself somewhere in the space
+
 between Him, the hymnal, and the hymn.
+
 Her pretty, gritty fluff tore in the wind,
+
 half cotton candy, half callous, cuff and collar.
+
 Like a goldfish, I grew to fit the walls of her gaze.
+
 She pierced her ears to please the earrings I bought her 
+
 as charms for storming the stage.
+
 I memorized the caress of love as it slithered through 
+
 my fingers like the feedback coda of her screamed psalms.
+
 One day I’ll know how to read people’s minds,
+
 but for now I’ll settle for their palms.
 
 **Also in this issue...**
