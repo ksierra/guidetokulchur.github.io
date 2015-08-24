@@ -17,8 +17,8 @@ numpages: ""
 dimensions: ""
 ---
 
-
-
+### from Sharif Shakhsir's 
+**"Waffle Iron Becomes a Man"**
 
 Sitting in among other electronic corpses, the waffle iron was visited by Mom’s spirit. “You didn’t deserve this,” she said, “and I will take responsibility. You may have one wish—”
 
@@ -32,4 +32,35 @@ The waffle maker agreed with her logic.
 
 The waffle iron had no idea how to answer this.
 
-### from Sharif Shakhsir's "Waffle Iron Becomes a Man"
+
+
+
+**Also in this Issue...**
+
+1. Barbara Ruth
+2. Shannon McKeehen
+3. marie nunalee
+4. Christine Howey
+5. Dwayne Martine
+6. Louie Crew Clay
+7. Jessica Lewis
+8. Mat Wenzel
+9. Rosie Garland
+10. Daniel de Culla
+11. Nic Campeotto
+12. Haley Fedor
+13. Shelly Rodrigue
+14. Kenneth Pobo
+15. gary lundy
+16. William Reichard
+17. M. Carmen Lane
+18. Sharif Shakhshir
+19. Marc Carver
+20. Kirsten Lorraine Mullen
+21. Jeanette Thomas
+22. Kevin Munley
+23. Lance Nizami
+24. Elly Baker
+25. Beasa Dukes
+26. Raymone Luczak
+27. Shane Allison
