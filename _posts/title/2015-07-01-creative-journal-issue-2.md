@@ -17,6 +17,7 @@ numpages: ""
 dimensions: ""
 ---
 
+
 ##from Molly Fuller's
 **"Death After the Apocalypse"**
 
@@ -26,7 +27,7 @@ I wonder if I can stand in front of your body, sprinkle the kerosene from the la
 
 These would be your final wishes, after all.  "Burn it to the ground," you said.
 
-**Also in this issue...**
+### Also in this issue...
 1. Bree
 2. Zena Smith
 3. Holly Jensen
