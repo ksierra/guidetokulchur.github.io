@@ -65,7 +65,7 @@ layout: default
                       {% endif %}
                       </div>
                       <div class="col-md-8">
-                          <h4> {{item.title}} {% if item.author != nil and != "" %}by {{item.author}}{% endif %}</h4>
+                          <h4> {{item.title}} {% if item.author != nil and item.author != "" %}by {{item.author}}{% endif %}</h4>
                           <p class="list-group-item-text">{{item.description}}</p>
                       </div>
                       </div>
