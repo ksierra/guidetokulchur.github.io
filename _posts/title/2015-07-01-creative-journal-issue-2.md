@@ -10,14 +10,23 @@ description: "31 contributors from Chicago, Illinois to Kolkata, West Bengal"
 permalink: "creative-journal-2"
 price: "12.00"
 cover: CreativeJournal2.jpg
+author: ""
+numinstock: ""
+isbn: ""
+numpages: ""
+dimensions: ""
 ---
 
+##from Molly Fuller's
+**"Death After the Apocalypse"**
 
+I think back to our future together; our house, carefully chosen for its backyard, room for children, not yet conceived, our life together, built simply, yet with direction.      
 
+I wonder if I can stand in front of your body, sprinkle the kerosene from the lamp we had used for camping, now stored in the two-car garage, over you, wrap you in a sheet from our bed, light a match from a book of matches that we got together from our favorite bar.  
 
+These would be your final wishes, after all.  "Burn it to the ground," you said.
 
-
-##In This Issue:
+**Also in this issue...**
 1. Bree
 2. Zena Smith
 3. Holly Jensen
