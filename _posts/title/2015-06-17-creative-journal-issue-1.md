@@ -18,12 +18,13 @@ numpages: ""
 dimensions: ""
 ---
 
+
 ##from Vita Brown's
 **"Exhaustion"**
 
 An exhale of breath vibrates the vocal cords, pushing past these minuscle shapes, issuing forth a sound, not yet completed into recognizable speech.
 
-Time to regroup, rethink reconnect connections lost in these milliseconds of verbalization. But any moment of potential genius has already trickled though the fractured psyche. Like two clasped hands cupping water, struggling unsuccessfully to keep it together.
+Time to regroup, rethink, reconnect connections lost in these milliseconds of verbalization. But any moment of potential genius has already trickled though the fractured psyche. Like two clasped hands cupping water, struggling unsuccessfully to keep it together.
 
 The need to let go, leave the flood gates open, give in to unsequential thought, is nearly impossible to stave off.
 
