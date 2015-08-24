@@ -43,7 +43,7 @@ section: all
           {% else %}
           <img src="{{site.defaultphoto}}" style="width:100%" />
           {% endif %}
-               <h4> {{item.title}} {% if item.author %}by {{item.author}} {% endif %}</h4>
+               <h4> {{item.title}} {% if item.author != nil and item.author != ""  %}by {{item.author}} {% endif %}</h4>
 
               <p class="list-group-item-text">{{item.description}}</p>
         <!--       {% for collection in site.categories.collection %}
