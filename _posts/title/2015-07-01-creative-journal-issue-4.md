@@ -19,6 +19,7 @@ dimensions: ""
 
 
 
+
 ### from Sharif Shakhsir's 
 **"Waffle Iron Becomes a Man"**
 
@@ -52,7 +53,7 @@ The waffle iron had no idea how to answer this.
 14. Kenneth Pobo
 15. gary lundy
 16. William Reichard
-17. M. Carmen Lane
+17. M.Carmen Lane
 18. Sharif Shakhshir
 19. Marc Carver
 20. Kirsten Lorraine Mullen
