@@ -17,6 +17,7 @@ numpages: ""
 dimensions: ""
 ---
 
+
 ### from Sharif Shakhsir's 
 **"Waffle Iron Becomes a Man"**
 
@@ -64,3 +65,5 @@ The waffle iron had no idea how to answer this.
 25. Beasa Dukes
 26. Raymone Luczak
 27. Shane Allison
+28. Therese Dianne (cover)
+29. Tara Bess Balsam (art)
