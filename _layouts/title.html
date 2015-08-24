@@ -58,7 +58,7 @@ section: titles
         <div class="col-md-7">
                 <div>
                 <!-- if there is an author... -->
-                {% if !page.author.blank %}
+                {% if page.author != nil %}
                   <p class="lead"> By {{page.author}} </p>
                 {% endif %}
                 <!-- show a link to the rest of the collection -->
