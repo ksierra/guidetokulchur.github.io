@@ -19,6 +19,7 @@ dimensions: ""
 
 
 
+
 Sitting in among other electronic corpses, the waffle iron was visited by Mom’s spirit. “You didn’t deserve this,” she said, “and I will take responsibility. You may have one wish—”
 
 “I want to know what it’s like to sit at the table,” the waffle iron interrupted.
@@ -32,5 +33,3 @@ The waffle maker agreed with her logic.
 The waffle iron had no idea how to answer this.
 
 ### from Sharif Shakhsir's "Waffle Iron Becomes a Man"
-
-
