@@ -1,6 +1,6 @@
 ---
 layout: collection
-permalink: nightinafairrepublic
+permalink: collaborations
 submissionslink: ""
 cover: IMG_0052.JPG
 description: "Comprising poems from the last 5 years, Night In {A} Fair Republic is Washington's most personal collection to date."
