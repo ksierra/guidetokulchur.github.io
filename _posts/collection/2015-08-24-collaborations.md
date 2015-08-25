@@ -1,40 +1,18 @@
 ---
 layout: collection
 permalink: collaborations
-submissionslink: ""
-cover: IMG_0052.JPG
-description: "Comprising poems from the last 5 years, Night In {A} Fair Republic is Washington's most personal collection to date."
+submissionslink: collaborations
+cover: DSCF1015.JPG
+description: "In keeping with our mission, GTK Press from time to time will collaborate on a book project with another independent press. You can find these projects under this tab on our website, and you can suggest collaborations you'd like to see. VIVA!"
 collectiontype: series
 published: false
 title: Collaborations
 ---
 
-##  _Night In {a} Fair Republic_ 
-new and selected poems by RA Washington.
-(a collaboration with Hydeout Press)
-- from the poem, **Letter To Lucien (from James)**
-> I thought of myself
-a mentor
-now it is clear that you carried me
-village to village, children cooing - “Noire, Petite noire!”
-Even a you loved women
-even as I fell aside alleys
-as my fame rested, looming over your brilliant face
-even as Malcolm rose
-Martin swelled
-and white becomes scorn
-negro tilled himself black
-I loved you.
-even as Betty screamed,
-and Jesse witnessed a King’s head explode concrete. 
-as Rufus jumped Bridge
-Cleaver rallied hate
-I loved you.
-Forty year run
-last night of me, this physical plane so shifting before
-going home on the last train
-it’s your blue eyes that hold me
-my lips cracking as I call your name.
+## GTK Press 
+from time to time will collaborate on a book project with another independent press. You can find these projects under this tab on our website, and you can suggest collaborations you'd like to see. VIVA!
+
+
 
 
 
