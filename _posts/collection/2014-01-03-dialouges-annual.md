@@ -1,14 +1,16 @@
 ---
 layout: collection
 category: collection
-title: Dialouges Annual
-permalink: "dialouges-annual"
+title: Dialogues Annual
+permalink: "dialogues-annual"
 collectiontype: journal
 published: false
 cover: "dialouges-annual.jpg"
 description: null
+submissionslink: ""
 ---
 
 
 
-Dialouges Annual is AWESOME
+
+Dialogues Annual is AWESOME
