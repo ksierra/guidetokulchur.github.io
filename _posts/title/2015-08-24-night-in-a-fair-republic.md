@@ -1,7 +1,7 @@
 ---
 layout: title
 permalink: "night-in-a-fair-republic"
-cover: IMG_0052.JPG
+cover: 11329860_494584140691300_3029459119958256720_n.jpg
 description: "We here at Hydeout Press are proud to announce \"Night in a Fair Republic\" by RA Washington, illustrated by Benji Diaz, out in collaboration with GTK Press.\nAn amazing, powerful, painful collection of short-form fiction, drama, and poetry, and the artwork contributed to the project by Benji Diaz is stunning, terrifying, and beautiful. The collection is lovingly designed by Alex Nielsen of Hydeout Press, with letter pressed wrap arounds etched and printed by hand."
 author: RA Washington
 price: "20.00"
@@ -15,6 +15,7 @@ dimensions: 5in by 6in
 published: false
 title: "Night In {a} Fair Republic"
 ---
+
 
 ##Hydeout Press + GTK Press are proud to announce "Night in a Fair Republic" by RA Washington, illustrated by Benji Diaz.
 
