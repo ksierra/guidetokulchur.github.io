@@ -12,7 +12,7 @@ collection: "collaborations-series"
 isbn: "95-34200-2575"
 numpages: "125"
 dimensions: 5in by 6in
-published: false
+published: true
 title: "Night In {a} Fair Republic"
 ---
 
