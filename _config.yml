@@ -30,11 +30,11 @@ prose:
           label: "Title"
           value: ""
     _posts/title:
-      - name: "category"
+      - name: "layout"
         field:
           element: "hidden"
           value: "title"
-      - name: "layout"
+      - name: "category"
         field:
           element: "hidden"
           value: "title"
