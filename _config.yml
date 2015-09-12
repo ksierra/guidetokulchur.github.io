@@ -34,12 +34,10 @@ prose:
         field:
           element: "text"
           label: "Title"
-
       - name: "category"
         field:
           element: "hidden"
           value: "title"
-
       - name: "permalink"
         field:
           element: "text"
