@@ -30,6 +30,10 @@ prose:
           label: "Title"
           value: ""
     _posts/title:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
       - name: "layout"
         field:
           element: "hidden"
@@ -38,10 +42,7 @@ prose:
         field:
           element: "hidden"
           value: "title"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
+
       - name: "permalink"
         field:
           element: "text"
