@@ -12,7 +12,7 @@ layout: default
 {% for item in titles %}
   {% if item.releasedate <= curr_date %}
       {% assign current_titles = true %}
-  {% else if item.releasedate <= curr_date %}
+  {% else if item.releasedate >= curr_date %}
       {% assign upcoming_titles = true %}
   {% endif %}
 {% endfor %}
