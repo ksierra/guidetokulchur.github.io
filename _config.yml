@@ -34,10 +34,7 @@ prose:
         field:
           element: "text"
           label: "Title"
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "title"
+
       - name: "category"
         field:
           element: "hidden"
@@ -120,6 +117,10 @@ prose:
         field:
           element: "text"
           label: "Book dimensions"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "title"
     _posts/collection:
       - name: "category"
         field:
