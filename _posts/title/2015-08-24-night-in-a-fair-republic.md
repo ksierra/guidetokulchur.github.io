@@ -8,7 +8,7 @@ price: "20.00"
 releasedate: "2015-08-24"
 instock: true
 numinstock: "300"
-collection: "vanguard-series"
+collection: "collaborations-series"
 isbn: "95-34200-2575"
 numpages: "100"
 dimensions: 5in by 6in

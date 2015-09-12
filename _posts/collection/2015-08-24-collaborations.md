@@ -1,6 +1,6 @@
 ---
 layout: collection
-permalink: collaborations
+permalink: collaborations-series
 category: collection
 submissionslink: collaborations
 cover: DSCF1015.JPG
@@ -14,5 +14,5 @@ title: Collaborations
 
 
 
-## GTK Press 
+## GTK Press
 from time to time will collaborate on a book project with another independent press. You can find these projects under this tab on our website, and you can suggest collaborations you would like to like to see. VIVA!

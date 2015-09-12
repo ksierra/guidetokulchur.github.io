@@ -104,6 +104,8 @@ prose:
               value: "gtk-creative-journal"
             - name: "Vanguard Series"
               value: "vanguard-series"
+            - name: "Collaborations Series"
+              value: "collaborations-series"
       - name: "isbn"
         field:
           element: "text"
