@@ -9,9 +9,10 @@ permalink: "gtk-creative-journal-submission-guidelines"
 
 
 
-## Submissions are Currently Closed
 
-### Reading Periods
+## SUBMISSIONS ARE NOW OPEN
+
+### Reading Period
 
 * October 1– November 15 (Issue 6)
 
@@ -21,6 +22,6 @@ Up to ten pages (no pdf files) of poetry, short fiction and personal essay. Work
 
 Simultaneous submissions are accepted so long as you inform us immediately that your work has been accepted elsewhere.
 
-Please include a short bio, 50 words max.
+Please include a short bio,third-person, 50 words max.
 
 Send your work to submissions.gtkjournal@gmail.com
