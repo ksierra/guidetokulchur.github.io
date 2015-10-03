@@ -12,8 +12,9 @@ collection: "gtk-creative-journal"
 isbn: ""
 numpages: ""
 dimensions: ""
-published: false
+published: true
 title: "Creative Journal Issue #5"
 ---
+
 
 ## Coming Soon
