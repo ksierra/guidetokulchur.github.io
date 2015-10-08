@@ -6,7 +6,7 @@ description: "COMING SOON!"
 author: ""
 price: "12.00"
 releasedate: ""
-instock: false
+instock: true
 numinstock: ""
 collection: "gtk-creative-journal"
 isbn: ""
