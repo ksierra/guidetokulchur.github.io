@@ -5,7 +5,7 @@ cover: ""
 description: "COMING SOON!"
 author: ""
 price: "12.00"
-releasedate: "20015-11-01"
+releasedate: "2015-11-01"
 instock: true
 numinstock: ""
 collection: "gtk-creative-journal"
