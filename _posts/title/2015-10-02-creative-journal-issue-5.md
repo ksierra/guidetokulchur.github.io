@@ -1,7 +1,7 @@
 ---
 layout: title
 permalink: "gtk-creative-issue-5"
-cover: ""
+cover: "[GTK 5 Cover.jpg]"
 description: "COMING SOON!"
 author: ""
 price: "12.00"
@@ -18,6 +18,8 @@ category: title
 ---
 
 
+
+![GTK 5 Cover.jpg]({{site.baseurl}}/media/GTK 5 Cover.jpg)
 
 
 ## Coming Soon
