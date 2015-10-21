@@ -1,7 +1,7 @@
 ---
 layout: title
 permalink: "gtk-creative-issue-5"
-cover: "[GTK 5 Cover.jpg]"
+cover: "({{site.baseurl}}/media/GTK 5 Cover.jpg)"
 description: "COMING SOON!"
 author: ""
 price: "12.00"
