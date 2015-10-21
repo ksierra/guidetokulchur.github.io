@@ -2,7 +2,7 @@
 layout: title
 permalink: "gtk-creative-issue-5"
 cover: GTK 5 Cover.jpg
-description: "COMING SOON!"
+description: "Available for Pre-Order"
 author: ""
 price: "12.00"
 releasedate: "2015-11-01"
