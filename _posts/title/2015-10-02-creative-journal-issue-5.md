@@ -5,7 +5,7 @@ cover: GTK 5 Cover.jpg
 description: "Available for Pre-Order"
 author: ""
 price: "12.00"
-releasedate: "2015-11-01"
+releasedate: "2015-10-21"
 instock: true
 numinstock: ""
 collection: "gtk-creative-journal"
