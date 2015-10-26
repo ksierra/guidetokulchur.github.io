@@ -2,7 +2,7 @@
 layout: title
 permalink: "gtk-creative-issue-5"
 cover: GTK 5 Cover.jpg
-description: "Available for Pre-Order"
+description: "Now Available!"
 author: ""
 price: "12.00"
 releasedate: "2015-10-21"
@@ -16,6 +16,7 @@ published: true
 title: "Creative Journal Issue #5"
 category: title
 ---
+
 
 ## from Tatiana Ryckman's 
 **"Where You're From"**
@@ -52,4 +53,3 @@ That woman's name must be something like Sarah or Martha or Jane. Something Puri
 23. Terry Ann Thaxton
 24. Tom Rechtin
 25. Valentina Cano
-
