@@ -7,8 +7,10 @@ collectiontype: journal
 submissionslink: "gtk-creative-journal-submission-guidelines"
 published: true
 cover: 1210111_389.JPG
-description: null
+description: 
+  Issue 6 Reading Period: "October 1-November 15"
 ---
+
 
 
 
