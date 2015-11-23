@@ -13,9 +13,10 @@ collection: "vanguard-series"
 isbn: ""
 numpages: ""
 dimensions: ""
-published: false
+published: true
 title: Ariel in Black
 "category:title": null
 ---
+
 
 Michelle R. Smith reimagines Plath's ARIEL to construct a series of pieces that speak in the voice of an intelligent, ambitious, complicated, creative, and passionate woman in the early decades of the twenty-first century.
