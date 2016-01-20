@@ -14,9 +14,9 @@ permalink: "gtk-creative-journal-submission-guidelines"
 
 ### Guidelines:
 
-Up to ten pages poetry, short fiction and personal essay (no more than one piece per page, no pdf files). Work previously published will not be considered.
+Up to ten pages poetry, short fiction and personal essay. Please insert page breaks between each work to be considered. No pdf files.
 
-Simultaneous submissions are strongly discouraged. Inform us immediately if your work is accepted elsewhere.
+Simultaneous submissions are strongly discouraged. Work previously published will not be considered.
 
 Please include a short bio,third-person, 50 words max.
 
