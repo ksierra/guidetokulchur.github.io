@@ -13,10 +13,10 @@ collection: "gtk-creative-journal"
 isbn: ""
 numpages: ""
 dimensions: ""
-published: false
+published: true
 title: "Creative Journal Issue #6"
 "category:title": null
 ---
 
-## COMING SOON
 
+## COMING SOON
