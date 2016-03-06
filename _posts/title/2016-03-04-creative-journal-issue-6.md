@@ -3,7 +3,7 @@ layout: title
 category: title
 permalink: "gtk-creative-issue-6"
 cover: issue6gtkcreative.jpg
-description: null
+description: AVAILABLE FOR PREORDER
 author: ""
 price: "12.00"
 releasedate: ""
@@ -19,4 +19,5 @@ title: "Creative Journal Issue #6"
 ---
 
 
-## COMING SOON
+
+## AVAILABLE FOR PREORDER
