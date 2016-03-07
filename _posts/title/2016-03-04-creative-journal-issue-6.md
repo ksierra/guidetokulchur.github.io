@@ -6,7 +6,7 @@ cover: issue6gtkcreative.jpg
 description: AVAILABLE FOR PREORDER
 author: ""
 price: "12.00"
-releasedate: ""
+releasedate: "2016-03-18"
 instock: true
 numinstock: ""
 collection: "gtk-creative-journal"
@@ -17,6 +17,7 @@ published: true
 title: "Creative Journal Issue #6"
 "category:title": null
 ---
+
 
 
 
