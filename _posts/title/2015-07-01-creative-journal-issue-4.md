@@ -4,7 +4,7 @@ category: title
 published: true
 title: "Creative Journal Issue #4"
 releasedate: "2015-08-01"
-instock: true
+instock: false
 collection: "gtk-creative-journal"
 description: "LGBTQIA and Two-Spirit"
 permalink: "creative-journal-4"
