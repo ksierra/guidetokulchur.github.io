@@ -4,17 +4,11 @@ category: title
 published: true
 title: "Creative Journal Issue #3"
 releasedate: "2015-04-01 21:46 -0400"
-instock: true
+instock: false
 collection: "gtk-creative-journal"
-description: null
 permalink: "creative-journal-3"
 cover: CreativeJournal3.jpg
 price: "12.00"
-author: ""
-numinstock: ""
-isbn: ""
-numpages: ""
-dimensions: ""
 ---
 
 
