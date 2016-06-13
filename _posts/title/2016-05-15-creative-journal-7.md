@@ -2,14 +2,14 @@
 layout: title
 category: title
 instock: true
-collection: "gtk-creative-journal"
+collection: gtk-creative-journal
 published: true
-title: "Creative Journal #7"
+title: 'Creative Journal #7'
 description: COMING SOON
-price: "12.00"
-releasedate: "2016-05-22"
+price: '12.00'
+releasedate: '2016-05-22'
 catagory: title
 cover: Issue7FrontCover.jpg
-permalink: "gtk-creative-issue-7"
+permalink: gtk-creative-issue-7
 ---
-##COMING SOON
+
