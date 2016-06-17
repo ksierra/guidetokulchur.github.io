@@ -4,7 +4,7 @@ category:
   title: null
 instock: true
 collection: vanguard-series
-published: false
+published: true
 title: On the One Tongue of the Wind Orishas Rise
 cover: OntheOneTongueforWeb.jpg
 description: >-
