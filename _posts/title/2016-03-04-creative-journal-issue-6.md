@@ -9,7 +9,7 @@ price: "12.00"
 releasedate: "2016-03-18"
 instock: true
 numinstock: ""
-collection: "gtk-creative-journal"
+collection: gtk-creative-journal
 isbn: ""
 numpages: ""
 dimensions: ""
