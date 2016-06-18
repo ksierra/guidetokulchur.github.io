@@ -9,7 +9,6 @@ published: true
 cover: "kisha-cover.jpg"
 price: "12.00"
 description: "The debut collection of poems collected from 1999 - 2014 by one of the country's most awe inspring performance poets."
-authorbio: null
 releasedate: "2015-03-01 19:59 -0400"
 instock: true
 isbn: "978-0-9965460-1-0"
