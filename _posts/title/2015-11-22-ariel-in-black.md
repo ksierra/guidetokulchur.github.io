@@ -15,7 +15,6 @@ numpages: "68"
 dimensions: 4.5x6
 published: true
 title: Ariel in Black
-"category:title": null
 ---
 
 
