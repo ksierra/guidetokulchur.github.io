@@ -15,7 +15,6 @@ numpages: ""
 dimensions: ""
 published: true
 title: "Creative Journal Issue #6"
-"category:title": null
 ---
 
 
