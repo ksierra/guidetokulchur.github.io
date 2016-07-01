@@ -3,13 +3,13 @@ layout: static
 category: static
 published: true
 title: GTK Creative Journal Submission Guidelines
-permalink: "gtk-creative-journal-submission-guidelines"
+permalink: gtk-creative-journal-submission-guidelines
 ---
 
 
 
 
-## SUBMISSIONS ARE CURRENTLY CLOSED
+## SUBMISSIONS ARE CURRENTLY OPEN
 
 ### Reading Period
 
