@@ -3,7 +3,7 @@ layout: title
 category: title
 instock: true
 collection: dialogues-series
-published: false
+published: true
 title: Fire This Time
 permalink: fire-this-time-ra-washington
 price: '7.00'
