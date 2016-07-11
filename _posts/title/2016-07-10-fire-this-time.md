@@ -12,6 +12,7 @@ isbn: 978-0-9965460-8-9
 catagory: title
 cover: firethistime.jpg
 numpages: '108'
+releasedate: '2014-07-10'
 ---
 I AM. 
 
