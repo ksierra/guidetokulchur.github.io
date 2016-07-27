@@ -41,7 +41,6 @@ layout: default
         {% endif %}
         </div>
         <div class="col-md-8">
-          {% if titles > 0 %}
             <h2>Available {{item_label}}</h2>
              <div class="list-group">
                 {% for item in titles %}
@@ -62,7 +61,6 @@ layout: default
                   </a>
                   {% endfor %}
                 </div>
-            {% endif %}
             </div>
         </div>
     </div>
