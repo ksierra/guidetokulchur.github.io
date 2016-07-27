@@ -1,17 +1,16 @@
 ---
 layout: default
 ---
+{% assign books = site.categories.title | limit:12 | where:"collection",page.permalink %}
 {% assign curr_date = site.time | date: "%Y-%m-%d" %}
 {% assign item_label = "Titles" %}
 {% if page.collectiontype == "journal" %}
 {% assign item_label = "Issues" %}
 {% endif %}
-{% assign books = site.categories.title | limit:12 | where:"collection",page.permalink %}
 <div class="banner-image" style="background-image:url('{{site.baseurl}}/{{site.prose.media}}/{{page.cover}}')">
 </div>
 <div class="banner-overlay-wrapper">
   <div class="banner-image-overlay">
-
   </div>
   <div class="banner-title">
       <h2 >{{page.title}}</h2>
@@ -48,7 +47,7 @@ layout: default
                     <div class="row">
                       <div class="col-md-4">
                       {% if item.cover %}
-                      <img style="width:100%" src="{{site.baseurl}}/{{site.prose.media}}/{{item.cover}}">
+                      <img style="width:100%" src="{{site.baseurl}}/{{site.prose.media}}/{{item.cover}}" />
                       {% else %}
                       <img src="{{site.defaultphoto}}"style="width:100%;" />
                       {% endif %}
