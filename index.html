@@ -18,13 +18,12 @@ title: 'Literature and Theory from the Margins'
           <h2>We Are Very Busy!</h2>
 
           <ul class="list-group">
-          {% for item in site.categories.collection limit:400 %}
+          {% for item in site.categories.collection limit:20 %}
             <a href="{{site.baseurl}}{{item.url}}" class="list-group-item">
                   <h4 class="list-group-heading"> {{item.title}} <span class="fa fa-arrow-right pull-right"></span></h4>
                   <p class="list-group-item-text">{{item.description}}</p>
               </a>
           {% endfor %}
-
           </ul>
       </div>
       <div class="col-md-7">
@@ -32,46 +31,46 @@ title: 'Literature and Theory from the Margins'
           <div class="list-group">
                 {% for item in site.categories.title limit:12 | sort: 'releasedate', 'last' %}
                 {% if item.releasedate <= curr_date %}
-                <a href="{{site.baseurl}}{{item.url}}" class="list-group-item">
-                <div class="row">
-                    <div class="col-md-4">
-                      {% if item.cover%}
-                      <img style="width:100%" src="{{site.baseurl}}/{{site.prose.media}}/{{item.cover}}">
-                      {% else %}
-                      <img src="{{site.defaultphoto}}" style="width:100%" />
-                      {% endif %}
+                  <a href="{{site.baseurl}}{{item.url}}" class="list-group-item">
+                  <div class="row">
+                      <div class="col-md-4">
+                        {% if item.cover%}
+                        <img style="width:100%" src="{{site.baseurl}}/{{site.prose.media}}/{{item.cover}}">
+                        {% else %}
+                        <img src="{{site.defaultphoto}}" style="width:100%" />
+                        {% endif %}
+                        </div>
+                      <div class="col-md-8">
+                          <h4> {{item.title}} {% if item.author != "" %} by {{item.author}} {% endif %}</h4>
+                          <p class="list-group-item-text">{{item.description}}</p>
                       </div>
-                    <div class="col-md-8">
-                        <h4> {{item.title}} {% if item.author %} by {{item.author}} {% endif %}</h4>
-                        <p class="list-group-item-text">{{item.description}}</p>
-                    </div>
-                    </div>
-                </a>
+                      </div>
+                  </a>
                 {% endif %}
                 {% endfor %}
             </div>
-            <h2>Upcoming Releases</h2>
+            <!-- <h2>Upcoming Releases</h2>
             <div class="list-group">
                 {% for item in site.categories.title limit:12 | sort: 'releasedate', 'last' %}
                 {% if item.releasedate >= curr_date %}
-                <a href="{{site.baseurl}}{{item.url}}" class="list-group-item">
-                <div class="row">
-                    <div class="col-md-4">
-                      {% if item.cover%}
-                      <img style="width:100%" src="{{site.baseurl}}/{{site.prose.media}}/{{item.cover}}">
-                      {% else %}
-                      <img src="{{site.defaultphoto}}" style="width:100%" />
-                      {% endif %}
+                  <a href="{{site.baseurl}}{{item.url}}" class="list-group-item">
+                  <div class="row">
+                      <div class="col-md-4">
+                        {% if item.cover%}
+                        <img style="width:100%" src="{{site.baseurl}}/{{site.prose.media}}/{{item.cover}}">
+                        {% else %}
+                        <img src="{{site.defaultphoto}}" style="width:100%" />
+                        {% endif %}
+                        </div>
+                      <div class="col-md-8">
+                          <h4> {{item.title}} {% if item.author %} by {{item.author}} {% endif %}</h4>
+                          <p class="list-group-item-text">{{item.description}}</p>
                       </div>
-                    <div class="col-md-8">
-                        <h4> {{item.title}} {% if item.author %} by {{item.author}} {% endif %}</h4>
-                        <p class="list-group-item-text">{{item.description}}</p>
-                    </div>
-                    </div>
-                </a>
+                      </div>
+                  </a>
                 {% endif %}
                 {% endfor %}
-            </div>
+            </div> -->
       </div>
 
   </div>

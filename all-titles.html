@@ -7,43 +7,17 @@ section: all
 <h2>All Titles</h2>
 <h3>Released Titles</h3>
 <div class="row">
-<div class="list-group">
-    {% for item in site.categories.title limit:400 order:title %}
-      {% if item.releasedate <= curr_date %}
-      <a href="{{site.baseurl}}{{item.url}}" class="list-group-item col-lg-4 col-sm-6">
-        <div>
-        {% if item.cover %}
-        <img style="width:100%" src="{{site.baseurl}}/{{site.prose.media}}/{{item.cover}}">
-        {% else %}
-        <img src="{{site.defaultphoto}}" style="width:100%" />
-        {% endif %}
-             <h4> {{item.title}} {% if item.author != nil and item.author != "" %}by {{item.author}} {% endif %}</h4>
-
-            <p class="list-group-item-text">{{item.description}}</p>
-      <!--       {% for collection in site.categories.collection %}
-                  {% if collection.permalink == item.collection %}
-                 <a href="{{site.baseurl}}/{{collection.url}}"><em>{{collection.title}}</em></a>
-                  {% endif %}
-            {% endfor %} -->
-        </div>
-      </a>
-      {% endif %}
-    {% endfor %}
-</div>
-</div>
-<h3>Coming Soon</h3>
-<div class="row">
-<div class="list-group">
-    {% for item in site.categories.title limit:400 order:title %}
-    {% if item.releasedate >= curr_date %}
-      <a href="{{site.baseurl}}{{item.url}}" class="list-group-item col-lg-4 col-sm-6">
-        <div>
+  <div class="list-group">
+      {% for item in site.categories.title limit:400 order:title %}
+        {% if item.releasedate <= curr_date %}
+        <a href="{{site.baseurl}}{{item.url}}" class="list-group-item col-lg-4 col-sm-6">
+          <div>
           {% if item.cover %}
           <img style="width:100%" src="{{site.baseurl}}/{{site.prose.media}}/{{item.cover}}">
           {% else %}
           <img src="{{site.defaultphoto}}" style="width:100%" />
           {% endif %}
-               <h4> {{item.title}} {% if item.author != nil and item.author != ""  %}by {{item.author}} {% endif %}</h4>
+               <h4> {{item.title}} {% if item.author != nil and item.author != "" %}by {{item.author}} {% endif %}</h4>
 
               <p class="list-group-item-text">{{item.description}}</p>
         <!--       {% for collection in site.categories.collection %}
@@ -51,10 +25,36 @@ section: all
                    <a href="{{site.baseurl}}/{{collection.url}}"><em>{{collection.title}}</em></a>
                     {% endif %}
               {% endfor %} -->
-        </div>
+          </div>
         </a>
-      {% endif %}
-    {% endfor %}
+        {% endif %}
+      {% endfor %}
+  </div>
 </div>
-</div>
+<h3>Coming Soon</h3>
+  <div class="row">
+    <div class="list-group">
+        {% for item in site.categories.title limit:400 order:title %}
+        {% if item.releasedate >= curr_date %}
+          <a href="{{site.baseurl}}{{item.url}}" class="list-group-item col-lg-4 col-sm-6">
+            <div>
+              {% if item.cover %}
+              <img style="width:100%" src="{{site.baseurl}}/{{site.prose.media}}/{{item.cover}}">
+              {% else %}
+              <img src="{{site.defaultphoto}}" style="width:100%" />
+              {% endif %}
+                   <h4> {{item.title}} {% if item.author != nil and item.author != ""  %}by {{item.author}} {% endif %}</h4>
+
+                   <p class="list-group-item-text">{{item.description}}</p>
+            <!--       {% for collection in site.categories.collection %}
+                        {% if collection.permalink == item.collection %}
+                       <a href="{{site.baseurl}}/{{collection.url}}"><em>{{collection.title}}</em></a>
+                        {% endif %}
+                  {% endfor %} -->
+            </div>
+            </a>
+          {% endif %}
+        {% endfor %}
+    </div>
+  </div>
 </div>
