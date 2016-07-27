@@ -6,7 +6,7 @@ layout: default
 {% if page.collectiontype == "journal" %}
 {% assign item_label = "Issues" %}
 {% endif %}
-{% assign titles = site.categories.title limit:400 | where:'collection', page.permalink | sort: 'releasedate' %}
+{% assign titles = site.categories.title limit:40 | where:'collection', page.permalink | sort: 'releasedate' %}
 <div class="banner-image" style="background-image:url('{{site.baseurl}}/{{site.prose.media}}/{{page.cover}}')">
 </div>
 <div class="banner-overlay-wrapper">
