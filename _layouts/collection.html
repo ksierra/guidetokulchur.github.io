@@ -6,7 +6,7 @@ layout: default
 {% if page.collectiontype == "journal" %}
 {% assign item_label = "Issues" %}
 {% endif %}
-{% assign titles = site.categories.title | limit: 40 | where: 'collection', page.permalink | sort: 'releasedate', 'first' %}
+{% assign books = site.categories.title | limit:12 | where:"collection",page.permalink %}
 <div class="banner-image" style="background-image:url('{{site.baseurl}}/{{site.prose.media}}/{{page.cover}}')">
 </div>
 <div class="banner-overlay-wrapper">
@@ -43,7 +43,7 @@ layout: default
         <div class="col-md-8">
             <h2>Available {{item_label}}</h2>
              <div class="list-group">
-                {% for item in titles %}
+                {% for item in books %}
                   <a href="{{site.baseurl}}{{item.url}}" class="list-group-item">
                     <div class="row">
                       <div class="col-md-4">
