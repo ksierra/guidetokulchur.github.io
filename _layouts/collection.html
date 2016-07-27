@@ -6,7 +6,7 @@ layout: default
 {% if page.collectiontype == "journal" %}
 {% assign item_label = "Issues" %}
 {% endif %}
-{% assign titles = site.categories.title limit:40 | where:'collection', page.permalink | sort: 'releasedate' %}
+{% assign titles = site.categories.title | limit: 40 | where: 'collection', page.permalink | sort: 'releasedate', 'first' %}
 <div class="banner-image" style="background-image:url('{{site.baseurl}}/{{site.prose.media}}/{{page.cover}}')">
 </div>
 <div class="banner-overlay-wrapper">
@@ -45,7 +45,7 @@ layout: default
              <div class="list-group">
                 {% for item in titles %}
                   <a href="{{site.baseurl}}{{item.url}}" class="list-group-item">
-                  <div class="row">
+                    <div class="row">
                       <div class="col-md-4">
                       {% if item.cover %}
                       <img style="width:100%" src="{{site.baseurl}}/{{site.prose.media}}/{{item.cover}}">
@@ -57,7 +57,7 @@ layout: default
                           <h4> {{item.title}} {% if item.author != nil and item.author != "" %}by {{item.author}}{% endif %}</h4>
                           <p class="list-group-item-text">{{item.description}}</p>
                       </div>
-                      </div>
+                    </div>
                   </a>
                   {% endfor %}
                 </div>
