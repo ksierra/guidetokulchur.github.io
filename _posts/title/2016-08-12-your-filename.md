@@ -4,7 +4,7 @@ category: title
 instock: true
 collection: vanguard-series
 published: false
-title: ''
+title: Nothing Good Ever Happens After Midnight
 permalink: nothing-good-ever-happens-after-midnight-sarah-marcus
 author: Sarah Marcus
 releasedate: '2016-08-12'
