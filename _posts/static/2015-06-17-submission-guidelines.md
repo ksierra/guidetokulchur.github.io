@@ -9,11 +9,11 @@ permalink: gtk-creative-journal-submission-guidelines
 
 
 
-## SUBMISSIONS ARE CURRENTLY OPEN
+## SUBMISSIONS ARE CURRENTLY CLOSED
 
 ### Reading Period
 
-* JULY 1 - AUGUST 15 (Issue 9)
+* October 1- November 15 (Issue 9)
 
 ### Guidelines:
 
