@@ -18,25 +18,23 @@ numpages: ''
 ---
 Even if it makes others uncomfortable… 
 I will love who I am.” – Janelle Monae
+<pre>
+I am determined.
+To be Eris
+To be black
+To be woman
+To be queer
+To be proud
+To be whole
+To be audacious
+To be fearless
+To be loved 
+To be loving
+To be unbothered
+To be un-swayed
+To be me unconditionally
+&amp; without apology
 
-    I am determined.
-    To be Eris
-    To be black
-    To be woman
-    To be queer
-    To be proud
-    To be whole
-    To be audacious
-    To be fearless
-    To be loved 
-    To be loving
-    To be unbothered
-    To be un-swayed
-    To be me unconditionally
-    & without apology
-
-    … and when necessary 
-    To not give a fuck.
-
-
-
+… and when necessary 
+To not give a fuck.
+</pre>
