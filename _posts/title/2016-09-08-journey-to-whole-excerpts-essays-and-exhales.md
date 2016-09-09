@@ -3,7 +3,7 @@ layout: title
 category: title
 instock: true
 collection: vanguard-series
-published: false
+published: true
 title: 'Journey To Whole: Excerpts, Essays, and Exhales'
 cover: JourneytoWholeWebCover.jpg
 permalink: journy-to-whole-eris-eady
