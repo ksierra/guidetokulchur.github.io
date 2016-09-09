@@ -3,7 +3,7 @@ layout: title
 category: title
 instock: true
 collection: vanguard-series
-published: false
+published: true
 title: White Space
 cover: WhiteSpaceWebCover.jpg
 permalink: white-space-eva-barrett
