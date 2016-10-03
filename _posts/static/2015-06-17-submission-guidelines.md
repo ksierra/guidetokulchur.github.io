@@ -29,4 +29,4 @@ October 1- November 15 (Issue 9)
 
 * No reading fee, payment is 1 contributor copy.
 
-Send your work to submissions.gtkjournal@gmail.com
+### Send your work to submissions.gtkjournal@gmail.com
