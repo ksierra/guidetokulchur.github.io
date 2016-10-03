@@ -13,20 +13,20 @@ permalink: gtk-creative-journal-submission-guidelines
 
 ### Reading Period
 
-* October 1- November 15 (Issue 9)
+October 1- November 15 (Issue 9)
 
 ### Guidelines:
 
-Up to ten pages poetry, short fiction, photo and personal essay. Please insert a page break between each piece if you are submitting more than one piece. No pdf files.
+* Up to ten pages poetry, fiction, creative nonfiction and orignial art. Please insert a page break between each piece. 
 
-We are also taking submissions for cover art.
+* No pdf files.
 
-Please send art and photo submissions at 300 DPI, 8.5 inches high and 5.5 inches wide.
+* Please send art and photo submissions at 300 DPI, 8.5 inches high and 5.5 inches wide.
 
-Simultaneous submissions are strongly discouraged. Work previously published will not be considered.
+* Simultaneous submissions are strongly discouraged. Work previously published will not be considered.
 
-Please include a short bio,third-person, 50 words max.
+* Please include a short bio,third-person, 50 words max.
 
-No reading fee, payment is 1 contributor copy.
+* No reading fee, payment is 1 contributor copy.
 
 Send your work to submissions.gtkjournal@gmail.com
