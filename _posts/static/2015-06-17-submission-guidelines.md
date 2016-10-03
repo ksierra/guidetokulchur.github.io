@@ -27,6 +27,6 @@ Simultaneous submissions are strongly discouraged. Work previously published wil
 
 Please include a short bio,third-person, 50 words max.
 
-No reading fees.
+No reading fee, payment is 1 contributor copy.
 
 Send your work to submissions.gtkjournal@gmail.com
