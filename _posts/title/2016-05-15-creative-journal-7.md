@@ -2,20 +2,9 @@
 layout: title
 category: title
 instock: true
-collection: gtk-creative-journal
-published: true
-title: 'Creative Journal #7'
-price: '12.00'
-releasedate: '2016-05-22'
-category: title
-cover: Issue7FrontCover.jpg
-permalink: gtk-creative-issue-7
-description: ''
-author: ''
-numinstock: ''
-isbn: ''
-numpages: ''
-dimensions: ''
+collection: dialogues-series
+published: false
+title: Untitled
 ---
 ## from Tina Groumoutis's
 ### Freebird
@@ -49,6 +38,3 @@ The last time I saw her, vegetarian, gluten-free Christine was eating bacon and 
 23. Sheila A. Long
 24. Tina Groumoutis
 25. Valentina Cano
-
-
-
