@@ -17,7 +17,7 @@ numpages: ''
 dimensions: ''
 ---
 ## from Barbara Ruth's
-### "At 69"
+### At 69
 
 	scarlet lipstick smears
     on the pad
