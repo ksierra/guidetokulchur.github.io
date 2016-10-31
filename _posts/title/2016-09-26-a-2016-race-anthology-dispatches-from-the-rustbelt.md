@@ -7,7 +7,7 @@ published: true
 title: 'A 2016 Race Anthology: Dispatches From The Rustbelt'
 cover: A2016RACEANTHOLOGYDISPATCHESANDARTIFACTSFROMASEGREGATEDCITY.jpg
 permalink: A-2016-Race-Anthology-Dispatches-From-The-Rustbelt
-description: 'A 2016 Race Anthology: Dispatches From The Rustbelt'
+description: A 2016 Race Anthology: Dispatches From The Rustbelt
 author: Edited by Dan Mouthrop + RA Washington
 price: '22.00'
 releasedate: '2016-10-15'
