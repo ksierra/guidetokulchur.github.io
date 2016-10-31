@@ -3,7 +3,7 @@ layout: title
 category: title
 instock: true
 collection: dialogues-series
-published: false
+published: true
 title: 'A 2016 Race Anthology: Dispatches From The Rustbelt'
 cover: A2016RACEANTHOLOGYDISPATCHESANDARTIFACTSFROMASEGREGATEDCITY.jpg
 permalink: A-2016-Race-Anthology-Dispatches-From-The-Rustbelt
