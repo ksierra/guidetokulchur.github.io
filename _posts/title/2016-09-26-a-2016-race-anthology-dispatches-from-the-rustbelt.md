@@ -6,7 +6,7 @@ collection: dialogues-series
 published: true
 title: 'A 2016 Race Anthology: Dispatches From The Rustbelt'
 cover: A2016RACEANTHOLOGYDISPATCHESANDARTIFACTSFROMASEGREGATEDCITY.jpg
-permalink: A-2016-Race-Anthology-Dispatches-From-The-Rustbelt
+permalink: a-2016-race-anthology-dispatches-from-the-rustbelt
 description: 'In collaboration with City Club, this gathers "dispatches" from our region and across the nation to discuss the history and the current manifestations of segregation in Cleveland. This Anthology combines essays, comics, and poetry with transcripts from The City Club's tremendous archives to give a glimpse into a dynamic that affects us all.'
 author: Edited by Dan Mouthrop + RA Washington
 price: '22.00'
