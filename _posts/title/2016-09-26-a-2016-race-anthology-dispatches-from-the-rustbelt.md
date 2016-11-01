@@ -4,10 +4,10 @@ category: title
 instock: true
 collection: dialogues-series
 published: true
-title: 'A 2016 Race Anthology: Dispatches From The Rustbelt'
-permalink: A-2016-Race-Anthology-Dispatches-From-The-Rustbelt
+title: 'A 2016 Race Anthology: Dispatches and Artifacts from a Segregated City'
+permalink: A-Race-Anthology-Dispatches-and-Artifacts-from-a-Segragated-City
 numinstock: '20'
-price: '22'
+price: '22.00'
 releasedate: '2016-10-30'
 cover: A2016RACEANTHOLOGYDISPATCHESANDARTIFACTSFROMASEGREGATEDCITY.jpg
 author: Edited by Dan Moulthrop + RA Washington
