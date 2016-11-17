@@ -3,7 +3,7 @@ layout: title
 category: title
 instock: true
 collection: vanguard-series
-published: false
+published: true
 title: Four Interiors
 permalink: four-interiors-ra-washington
 author: RA Washington
@@ -12,7 +12,7 @@ isbn: 978-0-9981104
 numpages: '191'
 dimensions: 4.5x7
 price: '12.00'
-cover: fourinteriors.jpg
+cover: fourinteriorscover.jpg
 description: ''
 numinstock: ''
 ---
@@ -22,3 +22,4 @@ A coming of age novel, an indictment of violence against women, and a winking no
 
 
 RA Washington is the author of 28 books, most recently BODY and FIRE THIS TIME (GTK Press, 2015). He is also the founder/ owner of Guide to Kulchur: Text, Art & News. He lives on Cleveland's west side with a bunch of awkward punks.
+
