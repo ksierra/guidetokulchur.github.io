@@ -22,5 +22,3 @@ A coming of age novel, an indictment of violence against women, and a winking no
 
 
 RA Washington is the author of 28 books, most recently BODY and FIRE THIS TIME (GTK Press, 2015). He is also the founder/ owner of Guide to Kulchur: Text, Art & News. He lives on Cleveland's west side with a bunch of awkward punks.
-
-
