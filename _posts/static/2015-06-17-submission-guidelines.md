@@ -9,7 +9,7 @@ permalink: gtk-creative-journal-submission-guidelines
 
 
 
-## SUBMISSIONS ARE CURRENTLY CLOSED!!!
+## SUBMISSIONS ARE CURRENTLY OPEN!!!
 
 ### Reading Period
 
